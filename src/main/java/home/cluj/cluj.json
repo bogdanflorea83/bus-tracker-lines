@@ -1,0 +1,376 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "800",
+			"short_name": "1",
+			"name": "Bucium - Piata 1 Mai",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "801",
+			"short_name": "3",
+			"name": "Strada Unirii - Piata Garii",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "802",
+			"short_name": "4",
+			"name": "IRA - Piata Garii",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "2332",
+			"short_name": "5",
+			"name": "Piata Garii - Aeroport",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "803",
+			"short_name": "6",
+			"name": "Bucium - IRA",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "804",
+			"short_name": "7",
+			"name": "IRA - Islaz",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "805",
+			"short_name": "8",
+			"name": "Piata Mihai Viteazul - Aeroport",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "806",
+			"short_name": "8L",
+			"name": "Piata Mihai Viteazul - Piata Agro",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "807",
+			"short_name": "9",
+			"name": "Bucium - Piata Garii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2333",
+			"short_name": "19",
+			"name": "Piata Mihai Viteazul - Mehedinti",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "2334",
+			"short_name": "20",
+			"name": "Piata Stefan cel Mare - Col. Borhaci",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "809",
+			"short_name": "21",
+			"name": "Piata Mihai Viteazul - Buna Ziua",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "810",
+			"short_name": "22",
+			"name": "Piata Garii - Iuliu Moldovan",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "811",
+			"short_name": "23",
+			"name": "Bd. Muncii - Piata Mihai Viteazul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "812",
+			"short_name": "24",
+			"name": "Bucium - Unirii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "813",
+			"short_name": "24B",
+			"name": "Unirii - Polus",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "814",
+			"short_name": "25",
+			"name": "Bucium - Unirii",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "2335",
+			"short_name": "25N",
+			"name": "Dispecerat Unirii - Dispecerat Bucium",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "815",
+			"short_name": "26",
+			"name": "Cartier Grigorescu - Bd Grigorescu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "816",
+			"short_name": "27",
+			"name": "Cartier Grigorescu - Piata Garii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "817",
+			"short_name": "28",
+			"name": "Cartier Grigorescu - Piata Mihai Viteazul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2336",
+			"short_name": "28B",
+			"name": "Polus Center - Piata Mihai Viteazul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "819",
+			"short_name": "29",
+			"name": "Bucium - Piata Mihai Viteazul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "820",
+			"short_name": "30",
+			"name": "Cartier Grigorescu - Aurel Vlaicu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "821",
+			"short_name": "31",
+			"name": "Piata Mihai Viteazul - Calea Baciului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "823",
+			"short_name": "32",
+			"name": "Alverna - Piata Mihai Viteazul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "824",
+			"short_name": "32B",
+			"name": "Alverna - Piata Garii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "825",
+			"short_name": "33",
+			"name": "Baisoara - Piata Mihai Viteazul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "826",
+			"short_name": "34",
+			"name": "Baisoara - Piata 1 Mai",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "827",
+			"short_name": "35",
+			"name": "Cartier Zorilor - Piata Garii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "829",
+			"short_name": "36B",
+			"name": "Barc - Piata Mihai Viteazul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "831",
+			"short_name": "37",
+			"name": "Piata Mihai Viteazul - Tetarom",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "832",
+			"short_name": "38",
+			"name": "Piata Mihai Viteazul - Cartier Gruia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "833",
+			"short_name": "39",
+			"name": "Piata Mihai Viteazul - Valea Chintenilor",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2337",
+			"short_name": "39L",
+			"name": "Piata Mihai Viteazul - Catun",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "834",
+			"short_name": "40",
+			"name": "Piata Mihai Viteazul - Colonia Faget",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2338",
+			"short_name": "40S",
+			"name": "Piata Stefan cel Mare - Calea Turzii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "835",
+			"short_name": "41",
+			"name": "Cartier Grigorescu - Piata 1 Mai",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "836",
+			"short_name": "42",
+			"name": "Piata Mihai Viteazul - Campului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "837",
+			"short_name": "43",
+			"name": "Cartier Grigorescu - Cartier Zorilor",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "838",
+			"short_name": "43B",
+			"name": "Cartier Grigorescu - Calea Turzii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "839",
+			"short_name": "43P",
+			"name": "Zorilor - Polus Center",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "840",
+			"short_name": "46",
+			"name": "Cartier Zorilor - Piata Stefan cel Mare",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "841",
+			"short_name": "46B",
+			"name": "Cartier Zorilor - Aurel Vlaicu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "842",
+			"short_name": "47",
+			"name": "Piata Mihai Viteazul - str. Harghitei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "843",
+			"short_name": "47B",
+			"name": "Dunarii - Piata Garii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "844",
+			"short_name": "48",
+			"name": "Aleea Baisoara - Bd Muncii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "845",
+			"short_name": "50",
+			"name": "Cartier Zorilor - Bd Muncii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "846",
+			"short_name": "52",
+			"name": "Bucium - Plevnei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2339",
+			"short_name": "87B",
+			"name": "Bucium - Polus Center",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "848",
+			"short_name": "100",
+			"name": "B-dul Muncii - Piata Garii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "850",
+			"short_name": "101",
+			"name": "Bucium - Piata Garii",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1031",
+			"short_name": "102",
+			"name": "Bd. Muncii - Bucium",
+			"type": "0",
+			"boolNum": "1"
+		}
+	]
+}

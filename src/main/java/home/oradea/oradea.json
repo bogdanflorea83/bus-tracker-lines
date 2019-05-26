@@ -1,0 +1,229 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "1081",
+			"short_name": "1N",
+			"name": "Pod C.F.R. - Gara Central\u0103 - Pia\u021ba Unirii - Pod C.F.R. ",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1079",
+			"short_name": "1NS",
+			"name": "Pod C.F.R. - Sinteza - Pod C.F.R.",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1080",
+			"short_name": "1R",
+			"name": "Pod C.F.R. - Pia\u021ba Unirii - Gara Central\u0103 - Pod C.F.R.",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1082",
+			"short_name": "2",
+			"name": "Nuf\u0103rul - Pia\u021ba Unirii - Io\u0219ia - Pia\u021ba Unirii - Nuf\u0103rul ",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1083",
+			"short_name": "3N",
+			"name": "Nuf\u0103rul - Pia\u021ba Unirii - Gara Central\u0103 - Nuf\u0103rul",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1084",
+			"short_name": "3R",
+			"name": "Nuf\u0103rul - Gara Central\u0103 - Pia\u021ba Unirii - Nuf\u0103rul ",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1085",
+			"short_name": "10",
+			"name": "Complex Seleusului - Piata Devei - Henrik Ibsen",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1086",
+			"short_name": "11",
+			"name": "Gara Centrala - Gara Episcopia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1087",
+			"short_name": "12",
+			"name": "Kaufland - Piata Unirii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1088",
+			"short_name": "13",
+			"name": "Aleea Gojdu - Parc 1 Decembrie - Spit. Judetean - Gh. Doja",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1089",
+			"short_name": "14",
+			"name": "Universitate C.L. - Piata Unirii - Podului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2330",
+			"short_name": "14C",
+			"name": "Piata Iosia - Turnul Primariei - Piata Iosia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1091",
+			"short_name": "15",
+			"name": "Parc 1 Decembrie - Podgoria",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1090",
+			"short_name": "16",
+			"name": "Piata 1 Decembrie - Romeur",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1092",
+			"short_name": "17",
+			"name": "Gara de Est - C.Civic - Pod C.F.R. ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1093",
+			"short_name": "18",
+			"name": "Gara Centrala - Bihorului Pod",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1094",
+			"short_name": "19",
+			"name": "Carrefour Era - Dacia Pasaj",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1095",
+			"short_name": "20",
+			"name": "Nufarul - Real",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1096",
+			"short_name": "21N",
+			"name": "Auchan - Aradului - Cazaban - St. cel Mare - Transilvaniei - B-dul Decebal - Aradului - Auchan ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1100",
+			"short_name": "21R",
+			"name": "Auchan - Bvd. Dacia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1101",
+			"short_name": "22",
+			"name": "Gara Centrala - Real 2",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1102",
+			"short_name": "23",
+			"name": "Carrefour Era - Piata Cetatii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1103",
+			"short_name": "24",
+			"name": "Pod CFR - Macon",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2331",
+			"short_name": "25",
+			"name": "Piata Cetatii - Cartierul Grigorescu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1185",
+			"short_name": "511",
+			"name": "Oradea - Baile Felix - Oradea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1574",
+			"short_name": "512",
+			"name": "Oradea - Baile 1 Mai - Oradea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1573",
+			"short_name": "513",
+			"name": "Oradea - Cordau - Oradea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1575",
+			"short_name": "514",
+			"name": "Oradea - Betfia - Oradea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1576",
+			"short_name": "531",
+			"name": "Oradea - Cihei - Oradea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1582",
+			"short_name": "612",
+			"name": "Oradea - Santaul Mare - Oradea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1583",
+			"short_name": "T1",
+			"name": "Piata 1 Decembrie - Olosig",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "1584",
+			"short_name": "T2",
+			"name": "Emanuil Gojdu - Iosia",
+			"type": "3",
+			"boolNum": "0"
+		}
+	]
+}

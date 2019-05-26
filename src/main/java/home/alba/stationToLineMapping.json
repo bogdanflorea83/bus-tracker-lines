@@ -1,0 +1,7212 @@
+[["Universitate",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Hanul Trei Sarmale",
+    [{
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Ideo",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Bucsinescu",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Dedeman",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Depoul C.F.R.",
+    [{
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tesatura",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Scoala Generala nr. 2",
+    [{
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Mistretului",
+    [{
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Spitalul Sf. Maria",
+    [{
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Liceul Agricol",
+    [{
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Dacia",
+    [{
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Muzeul Mihail Sadoveanu",
+    [{
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Spitalul nr. 7",
+    [{
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Frigorifer",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Moara 1 Mai",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Blocuri Metalurgie",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["C.T.P. - Sectia nr. 1",
+    [{
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. 1 Decembrie",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Ciric",
+    [{
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Targu Cucu",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_49_F",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_49_B",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_50_F",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_50_B",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tehnoton",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Podu de Fier",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_49_F",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_49_B",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Columnei",
+    [{
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Caretta",
+    [{
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Otelarie",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata C.U.G.",
+    [{
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Flora",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["C.U.G. I",
+    [{
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Biserica Inaltarea Domnului",
+    [{
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Stadion",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Blocuri Dancu",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Pod Metalurgie",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Fabrica de Ulei",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Padurii",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Tudor Vladimirescu",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_51_F",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_51_B",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Antibiotice",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Nicolina",
+    [{
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Locotenent Popovici",
+    [{
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Clopotari",
+    [{
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Moldomobila",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Dancu",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Cimitirul Sf. Petru si Pavel",
+    [{
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_49_F",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_49_B",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Vama II",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Hotel Basarabia",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Bucium",
+    [{
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Sere Ciurea",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Sf. Anton de Padova",
+    [{
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Facultativa",
+    [{
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Breazu",
+    [{
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["C.F.S.",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["OMV Pacurari",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Familial",
+    [{
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Palatul Culturii",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_51_F",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_51_B",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Telegondola 1",
+    [{
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_49_F",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_49_B",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Depozite",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Pacurari",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Aeroport",
+    [{
+        "lineName": "B_50_F",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_50_B",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Telegondola 2",
+    [{
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Rond vechi Dancu",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Piata Unirii",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_50_F",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Statiunea Viticola",
+    [{
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Gara Internationala",
+    [{
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Pod Cantemir",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Elena Doamna",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_51_F",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_51_B",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Ing. Virgil Sahleanu",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tudor Neculai",
+    [{
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Gara Socola",
+    [{
+        "lineName": "B_51_F",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_51_B",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Baza 3",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tehnopolis",
+    [{
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Spitalul de Recuperare",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Eminescu",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Mircea cel Batran",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Scoala Ion Ghica",
+    [{
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Podu de Piatra",
+    [{
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Gara",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_50_F",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_50_B",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Pasaj Alexandru cel Bun",
+    [{
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Policlinica Recuperare",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Spitalul Pascanu",
+    [{
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_49_F",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_49_B",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Cimitirul Evreiesc",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Plopii fara sot",
+    [{
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Somaco",
+    [{
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Conductelor",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Carrefour ERA",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Ateneu",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["C.E.T.",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Podu Ros (2)",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_51_B",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Boromir",
+    [{
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Podgoriilor",
+    [{
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Dr. Savini",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Liceul Pedagogic",
+    [{
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Blocuri Tomesti",
+    [{
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Centrofarm",
+    [{
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Blocuri Ciurea",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Aviatiei",
+    [{
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Pod Nicolina",
+    [{
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Dacia",
+    [{
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Bazar",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Praktiker ERA",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["METRO",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Vointa",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    }]],
+    ["C.F.S. II",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Liceul C.U.G.",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Biserica Lipoveneasca",
+    [{
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Triumf",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Copou",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Bacinschi",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Horpaz",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Alexandru cel Bun II",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Complex Roua Residence",
+    [{
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_49_F",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_49_B",
+        "lineNumber": "49",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Podu Ros (3)",
+    [{
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["OMV Bucium",
+    [{
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Troita",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Vama",
+    [{
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Octav Bancila",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Aeroportului",
+    [{
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Blocuri Pacurari",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Vinia",
+    [{
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tatarasi Sud",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_48_F",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_48_B",
+        "lineNumber": "48",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Canta",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Alexandru cel Bun",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Blocuri Cetatuia",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Bicaz",
+    [{
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. Motilor",
+    [{
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["I.P.A.",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Astoria",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Seminarul Teologic",
+    [{
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Frumoasa",
+    [{
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Liceul de Constructii",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Phoenix",
+    [{
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Camine C.U.G.",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tatarasi Nord",
+    [{
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Str. A. Obreja",
+    [{
+        "lineName": "B_18_F",
+        "lineNumber": "18",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Minerva",
+    [{
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Baza Nautica",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Pasaj Nicolina",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_47_F",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_47_B",
+        "lineNumber": "47",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Lunca Cetatuii",
+    [{
+        "lineName": "B_27_F",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_27_B",
+        "lineNumber": "27",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_44_B",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Zimbru",
+    [{
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_11_B",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_11_F",
+        "lineNumber": "11",
+        "color": "f05b72",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_44_F",
+        "lineNumber": "44",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    }]],
+    ["Petru Poni",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Podu Ros (1)",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tomesti",
+    [{
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["George Cosbuc",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_36_B",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_52_F",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_52_B",
+        "lineNumber": "52",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Sala Polivalenta",
+    [{
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_51_F",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_51_B",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Tutora",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_F",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_5_F",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_5_B",
+        "lineNumber": "5",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Casa Sindicatelor",
+    [{
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_29_B",
+        "lineNumber": "29",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_51_F",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_51_B",
+        "lineNumber": "51",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Sergent Grigore Ioan",
+    [{
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_F",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_19_B",
+        "lineNumber": "19",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30_F",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30_B",
+        "lineNumber": "30",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Piata Independentei",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_28_F",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_28_B",
+        "lineNumber": "28",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_36_F",
+        "lineNumber": "36",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_F",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_41_B",
+        "lineNumber": "41",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_42_F",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_42_B",
+        "lineNumber": "42",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43_F",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43_B",
+        "lineNumber": "43",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_46_F",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_46_B",
+        "lineNumber": "46",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_50_B",
+        "lineNumber": "50",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]],
+    ["Filarmonica",
+    [{
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_1_F",
+        "lineNumber": "1",
+        "color": "ec008c",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_3_B",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_3_F",
+        "lineNumber": "3",
+        "color": "00a650",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_6_B",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_6_F",
+        "lineNumber": "6",
+        "color": "f9c0c1",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_7_B",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_7_F",
+        "lineNumber": "7",
+        "color": "2e3092",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_8_B",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_8_F",
+        "lineNumber": "8",
+        "color": "d2e288",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_9_B",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "T_9_F",
+        "lineNumber": "9",
+        "color": "4ea391",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "T_13_F",
+        "lineNumber": "13",
+        "color": "00d1ff",
+        "deviceType": "T",
+        "moveDirection": "F"
+    }]],
+    ["Popas Pacurari",
+    [{
+        "lineName": "B_20_F",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_20_B",
+        "lineNumber": "20",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_30B_F",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_30B_B",
+        "lineNumber": "30B",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    },
+    {
+        "lineName": "B_43C_F",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "F"
+    },
+    {
+        "lineName": "B_43C_B",
+        "lineNumber": "43C",
+        "color": "8f4099",
+        "deviceType": "B",
+        "moveDirection": "B"
+    }]]]

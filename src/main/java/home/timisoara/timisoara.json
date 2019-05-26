@@ -1,0 +1,292 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "851",
+			"short_name": "1",
+			"name": "Gara Timi\u0219oara Nord - Sta\u021bia Meteo",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "852",
+			"short_name": "2",
+			"name": "D\u00e2mbovi\u021ba - Sta\u021bia Meteo",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "860",
+			"short_name": "3",
+			"name": "Abator - Gara Timi\u0219oara Nord",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "853",
+			"short_name": "4",
+			"name": "Calea Torontalului - Ciarda Ro\u0219ie",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "854",
+			"short_name": "5",
+			"name": "Rona\u021b - Sta\u021bia Meteo",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1579",
+			"short_name": "6",
+			"name": "Pia\u021ba Sf\u00e2nta Maria - Pia\u021ba Traian - Pia\u021ba Sf\u00e2nta Maria",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "2790",
+			"short_name": "7",
+			"name": "D\u00e2mbovi\u021ba - Calea Torontalului",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "858",
+			"short_name": "8",
+			"name": "Gara Timi\u0219oara Nord - Dom\u0103\u0219nean\/AEM",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "859",
+			"short_name": "9",
+			"name": "Gara Timi\u0219oara Nord - Dom\u0103\u0219nean\/AEM",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "855",
+			"short_name": "10",
+			"name": "Calea Torontalului - Sta\u021bia Meteo",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "861",
+			"short_name": "11",
+			"name": "Gheorghe Bari\u021biu - Arena Aquasport",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "864",
+			"short_name": "13",
+			"name": "Pia\u021ba M\u0103r\u0103\u0219ti - Pasaj C.F.",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "862",
+			"short_name": "14",
+			"name": "Gheorghe Bari\u021biu - Ion Ionescu de la Brad",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "863",
+			"short_name": "15",
+			"name": "Mare\u0219al Constantin Prezan - Traian Groz\u0103vescu",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "865",
+			"short_name": "16",
+			"name": "Bulevardul Sudului - Traian Groz\u0103vescu",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "866",
+			"short_name": "17",
+			"name": "Institutul Agronomic - Baader",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "867",
+			"short_name": "18",
+			"name": "C.P. Solventul - Liege",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "869",
+			"short_name": "21",
+			"name": "Banatim - \u0218coala General\u0103 Plopi",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "932",
+			"short_name": "22",
+			"name": "Alb\u0103strelelor - Traian Groz\u0103vescu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "870",
+			"short_name": "28",
+			"name": "\u021ai\u021beica - Pia\u021ba Virgil Economu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1073",
+			"short_name": "29",
+			"name": "Pia\u021ba Virgil Economu - Pod Ghiroda",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2329",
+			"short_name": "32",
+			"name": "Pia\u021ba Alexandru Mocioni - Gara Timi\u0219oara SUD",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1069",
+			"short_name": "33",
+			"name": "Catedrala Mitropolitan\u0103 - Pod Calea \u0218agului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "931",
+			"short_name": "33B",
+			"name": "Pia\u021ba Alexandru Mocioni - Metro",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "876",
+			"short_name": "40",
+			"name": "Traian Groz\u0103vescu - Stuparilor",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "877",
+			"short_name": "46",
+			"name": "Bastionul Maria Theresia - Muzeul Satului B\u0103n\u0103\u021bean",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "878",
+			"short_name": "E1",
+			"name": "Pod Calea \u0218agului - Calea Aradului",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "879",
+			"short_name": "E2",
+			"name": "Continental Automotive - Stuparilor",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "880",
+			"short_name": "E3",
+			"name": "Apicultorilor - Gara Timi\u0219oara Nord",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "881",
+			"short_name": "E4",
+			"name": "Bastionul Maria Theresia - Aeroportul Traian Vuia",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "1070",
+			"short_name": "E4B",
+			"name": "Aeroportul Traian Vuia - Gara Timi\u0219oara Nord",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "883",
+			"short_name": "E6",
+			"name": "Pia\u021ba Consiliul Europei - PITT",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "884",
+			"short_name": "E7",
+			"name": "Traian Groz\u0103vescu - Abator",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "1565",
+			"short_name": "E8",
+			"name": "Pod Calea \u0218agului - \u0218coala General\u0103 Plopi",
+			"type": "702",
+			"boolNum": "0"
+		},
+		{
+			"id": "2786",
+			"short_name": "G1",
+			"name": "Sat Giroc - Timi\u0219oara",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "2787",
+			"short_name": "G2",
+			"name": "Sat Chi\u0219oda - Timi\u0219oara",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "2794",
+			"short_name": "Jumbo",
+			"name": "Pia\u021ba Veteranilor - Jumbo",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "2793",
+			"short_name": "M11",
+			"name": "Gheorghe Bari\u021biu - C\u00e2mpului (Ghiroda)",
+			"type": "800",
+			"boolNum": "0"
+		},
+		{
+			"id": "1568",
+			"short_name": "M14",
+			"name": "Gheorghe Bari\u021biu - Gira\u021bie Dumbr\u0103vi\u021ba",
+			"type": "800",
+			"boolNum": "0"
+		},
+		{
+			"id": "1566",
+			"short_name": "M35",
+			"name": "Bastionul Maria Theresia - Giarmata Vii",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "1567",
+			"short_name": "M44",
+			"name": "Banatim - Becicherecu Mic",
+			"type": "3",
+			"boolNum": "0"
+		}
+	]
+}

@@ -1,0 +1,1160 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "626",
+			"short_name": "1",
+			"name": "Sura Mare - Cal. Vitan \/ Sos. Viilor",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "624",
+			"short_name": "7",
+			"name": "CFR Progresul - Piata Unirii",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "628",
+			"short_name": "8",
+			"name": "Depoul Militari - Zetari",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "8487",
+			"short_name": "10",
+			"name": "Romprim - Banu Manta",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "629",
+			"short_name": "11",
+			"name": "Zetarilor - Cartier 16 Februarie",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "630",
+			"short_name": "14",
+			"name": "Piata Sfanta Vineri - Faur Poarta 4",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "631",
+			"short_name": "16",
+			"name": "Piata Sfantul Gheorghe - Platforma Pipera",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "7387",
+			"short_name": "19",
+			"name": "Complex RATB Titan - C.F.R. Progresul",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "633",
+			"short_name": "21",
+			"name": "Piata Sfantul Gheorghe - Pasaj Colentina",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "634",
+			"short_name": "23",
+			"name": "Zetari - Complex RATB Titan",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1032",
+			"short_name": "24",
+			"name": "Cartier Damaroaia - Vasile Parvan",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "625",
+			"short_name": "25",
+			"name": "CFR Progresu - Depoul Militari",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "636",
+			"short_name": "27",
+			"name": "Complex RATB Titan - Piata Unirii",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "637",
+			"short_name": "32",
+			"name": "Depou Alexandria - Piata Unirii",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "8489",
+			"short_name": "34",
+			"name": "Bd. Banu Manta - Sura Mare",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "638",
+			"short_name": "35",
+			"name": "Depou Militari - Gara Basarab",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "639",
+			"short_name": "36",
+			"name": "Republica - Platforma Pipera",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "640",
+			"short_name": "40",
+			"name": "Complex RATB Titan - Piata Sfanta Vineri",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "641",
+			"short_name": "41",
+			"name": "Piata Presei - Ghencea",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "642",
+			"short_name": "42",
+			"name": "Piata Presei - Gara de Nord",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1074",
+			"short_name": "44",
+			"name": "Cartier 16 Februarie - Vasile Parvan",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "643",
+			"short_name": "45",
+			"name": "Mezes - Gara de Nord",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "644",
+			"short_name": "46",
+			"name": "Gara de Nord - Republica",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "645",
+			"short_name": "47",
+			"name": "Piata Unirii - Ghencea",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "8488",
+			"short_name": "55",
+			"name": "Piata Sf. Vineri - Granitul",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "647",
+			"short_name": "56",
+			"name": "Piata Sfanta Vineri - Republica",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "648",
+			"short_name": "61",
+			"name": "Master - Piata Rosetti",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "649",
+			"short_name": "62",
+			"name": "Gara de Nord - Grup Scolar Auto",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "650",
+			"short_name": "65",
+			"name": "Dridu - Sfintii Voievoizi",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "652",
+			"short_name": "66",
+			"name": "Spitalul Fundeni - Vasile Parvan",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "651",
+			"short_name": "69",
+			"name": "Valea Argesului - Baicului",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "653",
+			"short_name": "70",
+			"name": "Basarabia - Vasile Parvan",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "654",
+			"short_name": "73",
+			"name": "Turnu Magurele - Bd. Alexandru Obregia",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "8483",
+			"short_name": "74",
+			"name": "Bulevardul Alexandru Obregia - Piata Unirii",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "8484",
+			"short_name": "76",
+			"name": "Piata Resita - Piata Unirii",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "656",
+			"short_name": "77",
+			"name": "Piata Resita - Bd. Alexandru Obregia",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "657",
+			"short_name": "79",
+			"name": "Basarabia - Gara de Nord",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "658",
+			"short_name": "85",
+			"name": "Gara de Nord - Baicului",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "659",
+			"short_name": "86",
+			"name": "Stadionul National - Dridu",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "660",
+			"short_name": "90",
+			"name": "Arena Nationala - Valea Argesului",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "661",
+			"short_name": "91",
+			"name": "Depoul Alexandria - Piata Rosetti",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "663",
+			"short_name": "93",
+			"name": "Valea Argesului - Gara de Nord",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "664",
+			"short_name": "96",
+			"name": "Depoul Alexandria - Gara de Nord",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "666",
+			"short_name": "101",
+			"name": "Bucur Obor - Faur Poarta 4",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "667",
+			"short_name": "102",
+			"name": "Cora Pantelimon - CET Sud Vitan",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "668",
+			"short_name": "103",
+			"name": "Republica - Isovolta",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "669",
+			"short_name": "104",
+			"name": "Cora Pantelimon - Piata Operei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "670",
+			"short_name": "105",
+			"name": "Valea Oltului - Piata Presei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "671",
+			"short_name": "106",
+			"name": "Lujerului - Cartier Rosu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "672",
+			"short_name": "112",
+			"name": "CFR Constanta - Complex Comercial Colosseum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "673",
+			"short_name": "116",
+			"name": "Piata Sfanta Vineri - Gara Progresul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "674",
+			"short_name": "117",
+			"name": "Bacau - Piata Sfanta Vineri",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "675",
+			"short_name": "122",
+			"name": "Piata 21 Decembrie 1989 - Complex Cartier Latin",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "676",
+			"short_name": "123",
+			"name": "Gara de Nord - CET Sud Vitan",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "677",
+			"short_name": "124",
+			"name": "Opera Nationala - Romprim",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "678",
+			"short_name": "125",
+			"name": "Vulcan Berceni - Peco Silflor Move",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "679",
+			"short_name": "126",
+			"name": "Piata Romana - Ghencea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "680",
+			"short_name": "131",
+			"name": "Piata Romana - Complex Comercial Baneasa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "681",
+			"short_name": "133",
+			"name": "Gara Basarab - Tineretului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "682",
+			"short_name": "135",
+			"name": "CFR Constanta - CET Sud Vitan",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "683",
+			"short_name": "136",
+			"name": "CET Vest Militari - Pod Izvor",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "684",
+			"short_name": "137",
+			"name": "Carrefour Militari - Piata 21 Decembrie 1989",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "685",
+			"short_name": "138",
+			"name": "Cartier Militari - Piata 21 Decembrie 1989",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "686",
+			"short_name": "139",
+			"name": "Zetari - Piata Leul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "687",
+			"short_name": "141",
+			"name": "Zetari - Vulcan Berceni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "688",
+			"short_name": "143",
+			"name": "Bucur Obor - Baicului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "690",
+			"short_name": "149",
+			"name": "Complex Comercial Baneasa - Piata Presei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "691",
+			"short_name": "162",
+			"name": "Magaziile 16 Februarie - Gara Basarab",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "692",
+			"short_name": "163",
+			"name": "Giulesti Sarbi - Vasile Parvan",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "693",
+			"short_name": "168",
+			"name": "Piata Romana - Cartier Constantin Brancusi",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "694",
+			"short_name": "173",
+			"name": "Piata Eroii Revolutiei - Valea Argesului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "695",
+			"short_name": "178",
+			"name": "Cartier Militari - Sala Palatului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "697",
+			"short_name": "182",
+			"name": "Gara de Nord - Institutul Oncologic",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "698",
+			"short_name": "185",
+			"name": "Ghencea - Cimitirul Ghencea 3",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "699",
+			"short_name": "202",
+			"name": "CET Sud VItan - CFR Progresul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "700",
+			"short_name": "205",
+			"name": "Strand Straulesti - Gara de Nord",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "701",
+			"short_name": "216",
+			"name": "Gara Progresul - Piata Resita",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "702",
+			"short_name": "220",
+			"name": "Piata Rahova - Vulcan Berceni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "703",
+			"short_name": "221",
+			"name": "Ghencea - CET Vest Militari",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2025",
+			"short_name": "222",
+			"name": "Complex Cartier Latin - Ghencea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "704",
+			"short_name": "223",
+			"name": "CET Sud Vitan - Cartier Splaiul Unirii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "705",
+			"short_name": "226",
+			"name": "Piata Romana - Depoul Alexandria",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "706",
+			"short_name": "227",
+			"name": "Depoul Alexandriei - Piata Pucheni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "707",
+			"short_name": "232",
+			"name": "Platforma comerciala Arcade - Piata Unirii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "708",
+			"short_name": "236",
+			"name": "Complex Comercial West Park - Spitalul Universitar",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2027",
+			"short_name": "243",
+			"name": "Cora Pantelimon - Bd. Lacul Tei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "709",
+			"short_name": "246",
+			"name": "Complex RATB Titan - Cora Pantelimon",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "888",
+			"short_name": "253",
+			"name": "Spitalul Fundeni - Faur",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "890",
+			"short_name": "261",
+			"name": "Piata Presei - Complex Comercial Baneasa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "891",
+			"short_name": "268",
+			"name": "Valea Oltului - Piata 21 decembrie 1989",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "892",
+			"short_name": "282",
+			"name": "Gara Basarab - Soseaua Fundeni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "887",
+			"short_name": "300",
+			"name": "Nicolae Balcescu - Clabucet",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "893",
+			"short_name": "301",
+			"name": "Piata Romana - Jolie Ville Baneasa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "894",
+			"short_name": "302",
+			"name": "Ghencea - Cartier Fortuna",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "895",
+			"short_name": "303",
+			"name": "Depoul Alexandriei - Pecinisca",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "896",
+			"short_name": "304",
+			"name": "Piata Presei - Strand Straulesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "897",
+			"short_name": "311",
+			"name": "Faur - Piata Rosetti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "898",
+			"short_name": "312",
+			"name": "Piata de Gros - Piata Unirii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "899",
+			"short_name": "313",
+			"name": "Turnu Magurele - Piata Sfanta Vineri",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "900",
+			"short_name": "323",
+			"name": "Universitatea Crestina D. Cantemir - Zetarilor",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "901",
+			"short_name": "330",
+			"name": "Faur - Piata Presei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "902",
+			"short_name": "331",
+			"name": "Cartier Damaroaia - Piata Romana",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "904",
+			"short_name": "335",
+			"name": "Faur - Complex Comercial Baneasa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "905",
+			"short_name": "336",
+			"name": "Complex Comercial Apusului - Piata Rosetti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "906",
+			"short_name": "368",
+			"name": "Piata Romana - Valea Oltului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "907",
+			"short_name": "381",
+			"name": "Piata Resita - Piata Victoriei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "908",
+			"short_name": "385",
+			"name": "Valea Oltului - Piata Sfanta Vineri",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8490",
+			"short_name": "400",
+			"name": "Republica - Unirii Dobroesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8491",
+			"short_name": "402",
+			"name": "Romprim - Danubiaca",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8492",
+			"short_name": "404",
+			"name": "Cora Pantelimon - Pantelimon",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8494",
+			"short_name": "406",
+			"name": "Lujerului - Chiajna",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2031",
+			"short_name": "408",
+			"name": "Ghencea - C.F.R. Domnesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "947",
+			"short_name": "409",
+			"name": "Institutul Oncologic - Afumati",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8495",
+			"short_name": "414",
+			"name": "Romprim - Leordeni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8496",
+			"short_name": "418",
+			"name": "Piata Sudului - Berceni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "949",
+			"short_name": "422",
+			"name": "Clabucet - Pasaj CFR Chitila",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8497",
+			"short_name": "425",
+			"name": "CFR Progresul - Bumbacaria Jilava",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1035",
+			"short_name": "427",
+			"name": "Ghencea - Sat Pruni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2032",
+			"short_name": "428",
+			"name": "Ghencea - Teghes",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "948",
+			"short_name": "438",
+			"name": "Depou Alexandria - Bragadiru",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8498",
+			"short_name": "439",
+			"name": "Depoul Alexandria - Clinceni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "942",
+			"short_name": "449",
+			"name": "Piata Presei - CFR Balotesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1036",
+			"short_name": "453",
+			"name": "Ghencea - Varteju",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1067",
+			"short_name": "455",
+			"name": "Depou Alexandria - Facultatea de Fizica",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8499",
+			"short_name": "456",
+			"name": "Ghencea - Clinceni",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "940",
+			"short_name": "460",
+			"name": "Cartier Damaroaia - Oras Buftea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8500",
+			"short_name": "461",
+			"name": "Cartier Damaroaia - Mogosoaia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "972",
+			"short_name": "471",
+			"name": "CFR Progresul - 1 Decembrie",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "910",
+			"short_name": "601",
+			"name": "Semanatoarea - Piata Rosetti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8485",
+			"short_name": "605",
+			"name": "Complex Comercial Baneasa - Piata Sfanta Vineri",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "913",
+			"short_name": "668",
+			"name": "Valea Oltului - Spitalul Universitar",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "914",
+			"short_name": "682",
+			"name": "Baicului - Escalei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8486",
+			"short_name": "696",
+			"name": "Profesor Dr. Rainer - Gara Basarab",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1037",
+			"short_name": "697",
+			"name": "Mezes - Strand Straulesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "943",
+			"short_name": "780",
+			"name": "Gara Basarab - Aeroportul Henri Coanda",
+			"type": "702",
+			"boolNum": "1"
+		},
+		{
+			"id": "944",
+			"short_name": "783",
+			"name": "Piata Unirii - Aeroportul Henri Coanda",
+			"type": "702",
+			"boolNum": "1"
+		},
+		{
+			"id": "968",
+			"short_name": "M1",
+			"name": "Pantelimon - Dristor 2",
+			"type": "1",
+			"boolNum": "0"
+		},
+		{
+			"id": "969",
+			"short_name": "M2",
+			"name": "Pipera - Berceni",
+			"type": "1",
+			"boolNum": "0"
+		},
+		{
+			"id": "970",
+			"short_name": "M3",
+			"name": "Preciziei - Anghel Saligny",
+			"type": "1",
+			"boolNum": "0"
+		},
+		{
+			"id": "971",
+			"short_name": "M4",
+			"name": "Gara de Nord 2 - Straulesti",
+			"type": "1",
+			"boolNum": "0"
+		},
+		{
+			"id": "916",
+			"short_name": "N101",
+			"name": "Pasaj Colentina - Faur",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "917",
+			"short_name": "N102",
+			"name": "Piata Unirii - Granitul",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "918",
+			"short_name": "N103",
+			"name": "Zetari - Complex RATB Titan",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "919",
+			"short_name": "N104",
+			"name": "Piata Unirii - Faur Poarta 4",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "920",
+			"short_name": "N105",
+			"name": "Piata Unirii - Turnu Magurele",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "921",
+			"short_name": "N106",
+			"name": "Piata Unirii - Bd. Alexandru Obregia",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "937",
+			"short_name": "N107",
+			"name": "Piata Unirii - CFR Progresul",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "922",
+			"short_name": "N108",
+			"name": "Piata Unirii - Pasajul Colentina",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "923",
+			"short_name": "N109",
+			"name": "Piata Unirii - Republica",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "924",
+			"short_name": "N110 ",
+			"name": "Piata Unirii - Cartier 16 Februarie",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "962",
+			"short_name": "N111",
+			"name": "Piata Unirii - Complex RATB Titan",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "925",
+			"short_name": "N112",
+			"name": "Piata Unirii - Zetari",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "926",
+			"short_name": "N113 ",
+			"name": "Complex RATB Titan - Bd. Fiscului",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "938",
+			"short_name": "N114",
+			"name": "Piata Unirii - Depul Alexandria",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "927",
+			"short_name": "N115",
+			"name": "Piata Unirii - Grup Scolar Auto",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "928",
+			"short_name": "N116",
+			"name": "Piata Unirii - Grup Scolar Auto",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "929",
+			"short_name": "N117",
+			"name": "Piata Unirii - Strand Straulesti",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "939",
+			"short_name": "N118",
+			"name": "Complex Comercial Apusului - Mezes",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "930",
+			"short_name": "N119",
+			"name": "Piata Unirii - CFR Constanta",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "933",
+			"short_name": "N120",
+			"name": "Depoul Militari - Turnu Magurele",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "934",
+			"short_name": "N121",
+			"name": "Piata Unirii - Zetari",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "935",
+			"short_name": "N122",
+			"name": "Valea Oltului - Zetari",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "936",
+			"short_name": "N123",
+			"name": "CFR Constanta - Pasajul Otopeni",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "1173",
+			"short_name": "N124",
+			"name": "Depoul Alexandriei - Bulevardul Obregia",
+			"type": "3",
+			"boolNum": "0"
+		},
+		{
+			"id": "1174",
+			"short_name": "N125",
+			"name": "CFR Constanta - Granitul",
+			"type": "3",
+			"boolNum": "0"
+		}
+	]
+}

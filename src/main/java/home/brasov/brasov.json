@@ -1,0 +1,320 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "710",
+			"short_name": "1",
+			"name": "Livada Postei - Triaj",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "711",
+			"short_name": "2",
+			"name": "Livada Postei - Rulmentul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "715",
+			"short_name": "3",
+			"name": "Valea Cetatii - Stadionul Tineretului",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "712",
+			"short_name": "4",
+			"name": "Livada Postei - Gara Brasov",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "713",
+			"short_name": "5",
+			"name": "Roman SA - Stadionul Municipal",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "716",
+			"short_name": "5B",
+			"name": "Roman SA - Stadionul Tineretului",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "714",
+			"short_name": "6",
+			"name": "Livada Postei - Saturn",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "717",
+			"short_name": "7",
+			"name": "Roman SA - Rulmentul",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "718",
+			"short_name": "8",
+			"name": "Rulmentul - Saturn",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "749",
+			"short_name": "9",
+			"name": "Rulmentul - Independentei - Stadionul Municipal",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "719",
+			"short_name": "10",
+			"name": "Valea Cetatii - Triaj",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "720",
+			"short_name": "11",
+			"name": "Triaj - Bd.Garii - Rulmentul",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "1055",
+			"short_name": "12",
+			"name": "Livada Postei - Cuza Voda - Avram Iancu - Stad. Tineretului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "721",
+			"short_name": "14",
+			"name": "Livada Postei - Rasaritul - F-ca de Var",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1077",
+			"short_name": "15",
+			"name": "Independentei - Coresi - Triaj",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "722",
+			"short_name": "16",
+			"name": "Livada Postei - Grivitei - Municipal - Caramidariei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "723",
+			"short_name": "17",
+			"name": "Livada Postei - Noua",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "724",
+			"short_name": "17B",
+			"name": "Gara Brasov - Timisul de jos",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "725",
+			"short_name": "18",
+			"name": "Bariera Bartolomeu - Fundaturii (IAR Ghimbav)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "726",
+			"short_name": "20",
+			"name": "Livada Postei - Poiana Brasov",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "727",
+			"short_name": "21",
+			"name": "Triaj - Noua",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "728",
+			"short_name": "22",
+			"name": "Saturn - Stadionul Tineretului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "729",
+			"short_name": "23",
+			"name": "Saturn - Depozite ILF",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "730",
+			"short_name": "23B",
+			"name": "Triaj - A.Vlaicu - Stadion Munincipal",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1078",
+			"short_name": "24",
+			"name": "Livada Postei - ICPC",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "731",
+			"short_name": "25",
+			"name": "Avantgarden - Saturn",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "732",
+			"short_name": "28",
+			"name": "Livada Postei - (str. Lanii) - Fundaturii (IAR Ghimbav\/ICPC)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "750",
+			"short_name": "29",
+			"name": "Bartolomeu Nord - Independentei - Gara Brasov",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "733",
+			"short_name": "30",
+			"name": "Valea Cetatii - Rulmentul",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "734",
+			"short_name": "31",
+			"name": "Valea Cetatii - Livada Postei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "735",
+			"short_name": "32",
+			"name": "Valea Cetatii - Gara Brasov",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "736",
+			"short_name": "33",
+			"name": "Valea Cetatii - Roman SA",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "737",
+			"short_name": "34",
+			"name": "Livada Postei - Cernatului - Timis Triaj",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "738",
+			"short_name": "34B",
+			"name": "Timis -Triaj - Vlahuta - Livada Postei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "739",
+			"short_name": "35",
+			"name": "Gara Brasov - Noua",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "740",
+			"short_name": "36",
+			"name": "Livada Postei - Independentei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "741",
+			"short_name": "37",
+			"name": "Livada Postei - Craiter",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "742",
+			"short_name": "40",
+			"name": "Saturn - Gara - Stupini",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "743",
+			"short_name": "41",
+			"name": "Livada Postei - Stupini  Izvorului (Lujerului)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "744",
+			"short_name": "45",
+			"name": "Triaj - (Timis Triaj) - Uzina 2 - Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "745",
+			"short_name": "50",
+			"name": "Pe TOCILE - Str. Castanilor - Livada Postei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "746",
+			"short_name": "50B",
+			"name": "Livada Postei - Pietrele lui Solomon",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "747",
+			"short_name": "51",
+			"name": "Pe Tocile - Gara Brasov",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "748",
+			"short_name": "52",
+			"name": "Pe Tocile - Saturn",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2792",
+			"short_name": "Codlea",
+			"name": "Bra\u015fov - Codlea",
+			"type": "3",
+			"boolNum": "0"
+		}
+	]
+}

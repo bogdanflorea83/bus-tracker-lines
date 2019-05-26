@@ -1,0 +1,238 @@
+{
+	"lineNumber": "3",
+	"onlyOneRoute": false,
+	"color": "00a650",
+	"deviceType": "T",
+	"routeForward": {
+		"routeName": "T_3_F",
+		"moveDirection": "F",
+		"stations": [{
+			"lat": 47.16651954,
+			"lng": 27.570305497,
+			"stationName": "Gara",
+			"stationId": "IS_T_3_F_0",
+			"geohash": "u87s76khfs"
+		},
+		{
+			"lat": 47.1655591,
+			"lng": 27.580841316,
+			"stationName": "Piata Unirii",
+			"stationId": "IS_T_3_F_1",
+			"geohash": "u87s7d5z21"
+		},
+		{
+			"lat": 47.164149379,
+			"lng": 27.585442899,
+			"stationName": "Filarmonica",
+			"stationId": "IS_T_3_F_2",
+			"geohash": "u87s79zp56"
+		},
+		{
+			"lat": 47.164243777,
+			"lng": 27.590756416,
+			"stationName": "Targu Cucu",
+			"stationId": "IS_T_3_F_3",
+			"geohash": "u87s7cfzxh"
+		},
+		{
+			"lat": 47.163218463,
+			"lng": 27.596741509,
+			"stationName": "Padurii",
+			"stationId": "IS_T_3_F_4",
+			"geohash": "u87s7cz3dt"
+		},
+		{
+			"lat": 47.162560583,
+			"lng": 27.605122117,
+			"stationName": "Ateneu",
+			"stationId": "IS_T_3_F_5",
+			"geohash": "u87sk1tmvf"
+		},
+		{
+			"lat": 47.160027859,
+			"lng": 27.613429732,
+			"stationName": "Dr. Savini",
+			"stationId": "IS_T_3_F_6",
+			"geohash": "u87sk35rpd"
+		},
+		{
+			"lat": 47.159241563,
+			"lng": 27.618798117,
+			"stationName": "Flora",
+			"stationId": "IS_T_3_F_7",
+			"geohash": "u87sk3p6kx"
+		},
+		{
+			"lat": 47.156288432,
+			"lng": 27.623870501,
+			"stationName": "Tatarasi Sud",
+			"stationId": "IS_T_3_F_8",
+			"geohash": "u87sk8e16c"
+		},
+		{
+			"lat": 47.154274005,
+			"lng": 27.631311161,
+			"stationName": "I.P.A.",
+			"stationId": "IS_T_3_F_9",
+			"geohash": "u87skb0t81"
+		},
+		{
+			"lat": 47.152299878,
+			"lng": 27.635461211,
+			"stationName": "Phoenix",
+			"stationId": "IS_T_3_F_10",
+			"geohash": "u87shzgd0c"
+		},
+		{
+			"lat": 47.152337639,
+			"lng": 27.64185524,
+			"stationName": "Hotel Basarabia",
+			"stationId": "IS_T_3_F_11",
+			"geohash": "u87sjpb4mb"
+		},
+		{
+			"lat": 47.152935138,
+			"lng": 27.648477614,
+			"stationName": "Rond vechi Dancu",
+			"stationId": "IS_T_3_F_12",
+			"geohash": "u87sjpvjb0"
+		},
+		{
+			"lat": 47.152387275,
+			"lng": 27.655009389,
+			"stationName": "Blocuri Dancu",
+			"stationId": "IS_T_3_F_13",
+			"geohash": "u87sjrcf86"
+		},
+		{
+			"lat": 47.151583014,
+			"lng": 27.659220874,
+			"stationName": "Dancu",
+			"stationId": "IS_T_3_F_14",
+			"geohash": "u87sjrsvfs"
+		}]
+	},
+	"routeBackward": {
+		"routeName": "T_3_B",
+		"moveDirection": "F",
+		"stations": [{
+			"lat": 47.151617465,
+			"lng": 27.65953213,
+			"stationName": "Dancu",
+			"stationId": "IS_T_3_B_0",
+			"geohash": "u87sjrtn1f"
+		},
+		{
+			"lat": 47.152329038,
+			"lng": 27.656019509,
+			"stationName": "Blocuri Dancu",
+			"stationId": "IS_T_3_B_1",
+			"geohash": "u87sjrf6pz"
+		},
+		{
+			"lat": 47.153009365,
+			"lng": 27.648537338,
+			"stationName": "Rond vechi Dancu",
+			"stationId": "IS_T_3_B_2",
+			"geohash": "u87sjpvn1w"
+		},
+		{
+			"lat": 47.152650456,
+			"lng": 27.642855555,
+			"stationName": "Hotel Basarabia",
+			"stationId": "IS_T_3_B_3",
+			"geohash": "u87sjpbuj5"
+		},
+		{
+			"lat": 47.151916457,
+			"lng": 27.636440725,
+			"stationName": "Phoenix",
+			"stationId": "IS_T_3_B_4",
+			"geohash": "u87shzspzd"
+		},
+		{
+			"lat": 47.153772624,
+			"lng": 27.632589042,
+			"stationName": "I.P.A.",
+			"stationId": "IS_T_3_B_5",
+			"geohash": "u87skb16tu"
+		},
+		{
+			"lat": 47.156186758,
+			"lng": 27.624037117,
+			"stationName": "Tatarasi Sud",
+			"stationId": "IS_T_3_B_6",
+			"geohash": "u87sk8e0ww"
+		},
+		{
+			"lat": 47.158656292,
+			"lng": 27.620666861,
+			"stationName": "Flora",
+			"stationId": "IS_T_3_B_7",
+			"geohash": "u87sk8bz04"
+		},
+		{
+			"lat": 47.15986589,
+			"lng": 27.614640862,
+			"stationName": "Dr. Savini",
+			"stationId": "IS_T_3_B_8",
+			"geohash": "u87sk3hq5u"
+		},
+		{
+			"lat": 47.162336647,
+			"lng": 27.606025278,
+			"stationName": "Ateneu",
+			"stationId": "IS_T_3_B_9",
+			"geohash": "u87sk1whe0"
+		},
+		{
+			"lat": 47.163159329,
+			"lng": 27.597747088,
+			"stationName": "Padurii",
+			"stationId": "IS_T_3_B_10",
+			"geohash": "u87sk1b164"
+		},
+		{
+			"lat": 47.164153711,
+			"lng": 27.590173714,
+			"stationName": "Targu Cucu",
+			"stationId": "IS_T_3_B_11",
+			"geohash": "u87s7cfx1e"
+		},
+		{
+			"lat": 47.164105167,
+			"lng": 27.585691568,
+			"stationName": "Filarmonica",
+			"stationId": "IS_T_3_B_12",
+			"geohash": "u87s79zqc4"
+		},
+		{
+			"lat": 47.165568124,
+			"lng": 27.581039796,
+			"stationName": "Piata Unirii",
+			"stationId": "IS_T_3_B_13",
+			"geohash": "u87s7d5zkg"
+		},
+		{
+			"lat": 47.167864836,
+			"lng": 27.57301583,
+			"stationName": "Vointa",
+			"stationId": "IS_T_3_B_14",
+			"geohash": "u87s76wh9z"
+		},
+		{
+			"lat": 47.168252811,
+			"lng": 27.568493471,
+			"stationName": "Str. Bacinschi",
+			"stationId": "IS_T_3_B_15",
+			"geohash": "u87s76dybr"
+		},
+		{
+			"lat": 47.166588743,
+			"lng": 27.570075095,
+			"stationName": "Gara",
+			"stationId": "IS_T_3_B_16",
+			"geohash": "u87s767vm3"
+		}]
+	}
+}

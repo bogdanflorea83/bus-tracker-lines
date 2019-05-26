@@ -1,0 +1,320 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "420",
+			"short_name": "1",
+			"name": "Metro - Rafinaria Astra",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "421",
+			"short_name": "2",
+			"name": "Gara de Vest - Gara de Sud",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "422",
+			"short_name": "2B",
+			"name": "Gara de Vest - Hipodrom",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "435",
+			"short_name": "4",
+			"name": "Gara de Nord - Gara de Vest",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "617",
+			"short_name": "4B",
+			"name": "Vega - Hale Catedrala (Cimitir)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "423",
+			"short_name": "5",
+			"name": "Spitalul Judetean - Cartier Mihai Bravu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "424",
+			"short_name": "7",
+			"name": "Bariera Rudului - Fabrica Dorobantul",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1924",
+			"short_name": "8",
+			"name": "Hale Catedrala - Cimitir Bolovani",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "425",
+			"short_name": "22",
+			"name": "Auchan - Bariera Unirii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1925",
+			"short_name": "25R",
+			"name": "Pod Inalt - Torcatori - Gara de Sud",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "439",
+			"short_name": "28",
+			"name": "Spitalul Judetean - Uztel",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "429",
+			"short_name": "30",
+			"name": "Bloc Republicii - Hipodrom",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "436",
+			"short_name": "32",
+			"name": "Hala Catedrala - Protan",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1926",
+			"short_name": "32B",
+			"name": "Hale Catedrala - Protan",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "426",
+			"short_name": "35",
+			"name": "Lamaita - Hale Coreco",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "433",
+			"short_name": "35B",
+			"name": "Bloc 39 - Hale Coreco",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "438",
+			"short_name": "36",
+			"name": "Pod Inalt - Uztel",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "432",
+			"short_name": "39",
+			"name": "Hale Catedrala - Cartier Ploiesti Vest",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "443",
+			"short_name": "40",
+			"name": "Hale Catedrala - Bereasca",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "621",
+			"short_name": "40B",
+			"name": "Hale Catedrala - Parc Constantin Stere",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "622",
+			"short_name": "42",
+			"name": "Podul Inalt - Comat",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "430",
+			"short_name": "44",
+			"name": "Malu Rosu - Gara de Sud",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "440",
+			"short_name": "44B",
+			"name": "Malu Rosu - Uztel",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "886",
+			"short_name": "48",
+			"name": "Malu Rosu - Comat",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1039",
+			"short_name": "52",
+			"name": "Domnisori - Uztel",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1040",
+			"short_name": "53",
+			"name": "Bloc 39 - Gara de Sud",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1041",
+			"short_name": "54",
+			"name": "Malu Rosu - Bereasca",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1119",
+			"short_name": "95",
+			"name": "Gara de Vest - Muntenia - Auchan - Gara de Vest",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1120",
+			"short_name": "95B",
+			"name": "Gara de Vest - Auchan - Muntenia - Gara de Vest",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "427",
+			"short_name": "101",
+			"name": "Spitalul Judetean - Gara de Sud",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "428",
+			"short_name": "102",
+			"name": "Spitalul Judetean - Gara Vest",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "434",
+			"short_name": "104",
+			"name": "Armoniei - Uztel",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "437",
+			"short_name": "106",
+			"name": "Gara Sud - Uztel",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "442",
+			"short_name": "202",
+			"name": "Pod Inalt - Gara Sud",
+			"type": "800",
+			"boolNum": "1"
+		},
+		{
+			"id": "1045",
+			"short_name": "300",
+			"name": "Gara de Sud - Yazaki",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1046",
+			"short_name": "301",
+			"name": "Protan - Yazaki",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1047",
+			"short_name": "302",
+			"name": "Fero - Yazaki",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1048",
+			"short_name": "303",
+			"name": "Radu de la Afumati - Yazaki",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1049",
+			"short_name": "304",
+			"name": "Gara de Vest - Yazaki",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1050",
+			"short_name": "305",
+			"name": "Armoniei - Yazaki",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1051",
+			"short_name": "306",
+			"name": "Hipodrom - Yazaki",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1121",
+			"short_name": "401",
+			"name": "Gara de Sud - AFI Palace",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1928",
+			"short_name": "402",
+			"name": "Lamaita - Afi Palace",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1038",
+			"short_name": "444B",
+			"name": "Rafinorilor - Bariera Rudului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1929",
+			"short_name": "445",
+			"name": "Gara de Sud - Ploiesti Triaj",
+			"type": "3",
+			"boolNum": "1"
+		}
+	]
+}

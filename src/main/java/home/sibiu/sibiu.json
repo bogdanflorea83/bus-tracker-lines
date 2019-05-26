@@ -1,0 +1,187 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "974",
+			"short_name": "1",
+			"name": "Cimitir - Obi",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "975",
+			"short_name": "1-1",
+			"name": "Cimitir - Viile Sibiului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "976",
+			"short_name": "2",
+			"name": "Irmes - Piata Cibin",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "977",
+			"short_name": "2-1",
+			"name": "Eurofoam - Piata Cibin",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "978",
+			"short_name": "2-2",
+			"name": "Scandia - Piata Cibin",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "979",
+			"short_name": "5",
+			"name": "Valea Aurie - Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "980",
+			"short_name": "10",
+			"name": "Turnisor - Compa - Gusterita",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "981",
+			"short_name": "10-3",
+			"name": "Turnisor - Compa - Tabacarie",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "983",
+			"short_name": "11",
+			"name": "Cedonia - Continental",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "982",
+			"short_name": "12",
+			"name": "Piata Rahova - Sembraz",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "984",
+			"short_name": "13",
+			"name": "Gara - Dumbrava",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "985",
+			"short_name": "13-1",
+			"name": "Gara - Muzeul Satului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "986",
+			"short_name": "14",
+			"name": "Valea Aurie - Hotel Libra",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "987",
+			"short_name": "15",
+			"name": "Valea Aurie - Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "988",
+			"short_name": "16",
+			"name": "Valea Aurie - Terezian",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "989",
+			"short_name": "17",
+			"name": "Strand - Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "990",
+			"short_name": "18",
+			"name": "Gara - Tiglari - Cartierul Tineretului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "999",
+			"short_name": "22",
+			"name": "Sibiu - Paltinis",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "992",
+			"short_name": "111",
+			"name": "Cimitir - Europa Unita",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "991",
+			"short_name": "112",
+			"name": "Zona Industriala Est - S.C. Continental",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "993",
+			"short_name": "113",
+			"name": "Valea Aurie - Europa Unita",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "994",
+			"short_name": "114",
+			"name": "Zona Industriala Est - Europa Unita",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "995",
+			"short_name": "115",
+			"name": "Hotel Libra - Europa Unita",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "996",
+			"short_name": "116",
+			"name": "Valea Aurie - Continental",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "997",
+			"short_name": "117",
+			"name": "OBI - Continental",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "998",
+			"short_name": "118",
+			"name": "Gusterita - Continental",
+			"type": "3",
+			"boolNum": "1"
+		}
+	]
+}
