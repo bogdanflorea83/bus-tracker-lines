@@ -1,0 +1,166 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "1570",
+			"short_name": "1",
+			"name": "F\u0103t Frumos - Podgoria - Pia\u021ba Roman\u0103",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1589",
+			"short_name": "1B",
+			"name": "Platforma Industrial\u0103 Vest - F\u0103t Frumos",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1572",
+			"short_name": "3",
+			"name": "F\u0103t Frumos - Podgoria - Pia\u021ba Roman\u0103 - Gara Aradul Nou",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1590",
+			"short_name": "6",
+			"name": "Piata Gai - Podgoria - Pia\u021ba Roman\u0103",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1911",
+			"short_name": "7",
+			"name": "F\u0103t Frumos - Podgoria - Miori\u021ba - Billa - Podgoria - F\u0103t Frumos",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1912",
+			"short_name": "9",
+			"name": "F\u0103t Frumos - Podgoria - Vladimirescu - Combinatul Chimic",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1913",
+			"short_name": "10",
+			"name": "Pia\u021ba Roman\u0103 - Podgoria - Vladimirescu - Combinatul Chimic",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1914",
+			"short_name": "11",
+			"name": "F\u0103t Frumos - Podgoria - S\u00e2mb\u0103teni",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1915",
+			"short_name": "12",
+			"name": "Pia\u021ba Roman\u0103 - Podgoria - S\u00e2mb\u0103teni",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1916",
+			"short_name": "14",
+			"name": "Combinatul Chimic - S\u00e2mb\u0103teni",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1917",
+			"short_name": "15",
+			"name": "F\u0103t Frumos - Gara C.F.R - Sere",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1919",
+			"short_name": "15B",
+			"name": "Fat Frumos - Gara C.F.R. - C.E.T.",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1918",
+			"short_name": "16",
+			"name": "Pia\u021ba Roman\u0103 - Podgoria - Sere",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1571",
+			"short_name": "16B",
+			"name": "Pia\u021ba Roman\u0103 - Podgoria - C.E.T.",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1933",
+			"short_name": "18B",
+			"name": "F\u0103t Frumuos - Cpt. Ignat - Pia\u021ba Roman\u0103",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1934",
+			"short_name": "19",
+			"name": "S\u00e2nicolaul Mic - Podgoria - Pia\u021ba UTA",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1935",
+			"short_name": "20",
+			"name": "Pia\u021ba UTA - Billa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1936",
+			"short_name": "21",
+			"name": "Podgoria - Falez\u0103 Sud",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1937",
+			"short_name": "31",
+			"name": "Podgoria - Trenului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1938",
+			"short_name": "39B",
+			"name": "Podgoria - Ar\u021barului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1939",
+			"short_name": "41",
+			"name": "Pia\u021ba Roman\u0103 - Bujac",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2788",
+			"short_name": "48",
+			"name": "Billa - A.N.L.- Selgros -Real",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1941",
+			"short_name": "54",
+			"name": "Podgoria - I.A.S. Mure\u0219ul",
+			"type": "3",
+			"boolNum": "1"
+		}
+	]
+}

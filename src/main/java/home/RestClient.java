@@ -12,7 +12,7 @@ public class RestClient {
 //		cities.add("alba");
 //		cities.add("arad");
 //		cities.add("brasov");
-//		cities.add("bucuresti");
+		cities.add("bucuresti");
 //		cities.add("cluj");
 //		cities.add("constanta");
 		cities.add("iasi");
@@ -21,6 +21,7 @@ public class RestClient {
 //		cities.add("sibiu");
 //		cities.add("timisoara");
 //		cities.add("craiova");
+System.out.println("------");
 //		
 		for(String city : cities) {
 //			TransportRestClient.processCity(city);

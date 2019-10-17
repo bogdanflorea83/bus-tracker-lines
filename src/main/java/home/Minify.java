@@ -100,7 +100,7 @@ public class Minify {
 				
 		        try {
 		        	
-		            String pathPrefix = "D:\\workspace_transport_geofire\\home\\src\\main\\java\\home\\";
+		            String pathPrefix = "D:\\WSS\\bus-tracker-lines\\src\\main\\java\\home\\isu\\";
 					new Minify().minify(new FileInputStream(new File( pathPrefix+city+"\\allLines.json")),
 							new FileOutputStream(new File( pathPrefix+city+"\\allLinesMin.json")));
 					

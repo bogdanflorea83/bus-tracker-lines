@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AndroidPush<home>",
+            "request": "launch",
+            "mainClass": "home.AndroidPush",
+            "projectName": "home"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackgroundLocationConfig<home>",
+            "request": "launch",
+            "mainClass": "home.BackgroundLocationConfig",
+            "projectName": "home"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DecodePolyline<home>",
+            "request": "launch",
+            "mainClass": "home.DecodePolyline",
+            "projectName": "home"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Encrypt<home>",
+            "request": "launch",
+            "mainClass": "home.Encrypt",
+            "projectName": "home"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReplaceRouteNameForAlba<home>",
+            "request": "launch",
+            "mainClass": "home.ReplaceRouteNameForAlba",
+            "projectName": "home"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RestClient<home>",
+            "request": "launch",
+            "mainClass": "home.RestClient",
+            "projectName": "home"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestDistanceBetweenWayPoints<home>",
+            "request": "launch",
+            "mainClass": "home.TestDistanceBetweenWayPoints",
+            "projectName": "home"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PolylineEncoder<home>",
+            "request": "launch",
+            "mainClass": "it.rambow.master.javautils.PolylineEncoder",
+            "projectName": "home"
+        }
+    ]
+}

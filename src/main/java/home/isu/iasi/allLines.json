@@ -1,0 +1,976 @@
+{
+  "allLines": [
+    {
+      "deviceType": "T",
+      "onlyOneRoute": false,
+      "color": "ec008c",
+      "routeForward": {
+        "duration": "01:10",
+        "name": "C->Podu Ros->Tatarasi",
+        "moveDirection": "F",
+        "stations": [
+          {
+            "lng": 27.55839,
+            "geohash": "u87s7ng2mj",
+            "stationName": "Rond Copou",
+            "lat": 47.19047,
+            "stationId": "IS_T_1_F_0"
+          },
+          {
+            "lng": 27.5623104581,
+            "geohash": "u87s7nn2bq",
+            "stationName": "Stadion",
+            "lat": 47.1864422727,
+            "stationId": "IS_T_1_F_1"
+          },
+          {
+            "lng": 27.56431,
+            "geohash": "u87s7jxdyu",
+            "stationName": "George Cosbuc",
+            "lat": 47.18403,
+            "stationId": "IS_T_1_F_2"
+          },
+          {
+            "lng": 27.56734,
+            "geohash": "u87s7kcvv8",
+            "stationName": "Triumf",
+            "lat": 47.1804,
+            "stationId": "IS_T_1_F_3"
+          },
+          {
+            "lng": 27.5720211276,
+            "geohash": "u87s77vmd9",
+            "stationName": "Universitate",
+            "lat": 47.1748701669,
+            "stationId": "IS_T_1_F_4"
+          },
+          {
+            "lng": 27.5766688594208,
+            "geohash": "u87s7dbdwz",
+            "stationName": "Piata Eminescu",
+            "lat": 47.1688968096557,
+            "stationId": "IS_T_1_F_5"
+          },
+          {
+            "lng": 27.5814238796,
+            "geohash": "u87s7dhjvv",
+            "stationName": "Piata Unirii",
+            "lat": 47.1653226849,
+            "stationId": "IS_T_1_F_6"
+          },
+          {
+            "lng": 27.5854,
+            "geohash": "u87s79znd7",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16407,
+            "stationId": "IS_T_1_F_7"
+          },
+          {
+            "lng": 27.5909,
+            "geohash": "u87s7cgp6d",
+            "stationName": "Targu Cucu",
+            "lat": 47.16419,
+            "stationId": "IS_T_1_F_8"
+          },
+          {
+            "lng": 27.58782,
+            "geohash": "u87s7c0g4",
+            "stationName": "Palatul Culturii",
+            "lat": 47.15935,
+            "stationId": "IS_T_1_F_9"
+          },
+          {
+            "lng": 27.58941,
+            "geohash": "u87s5z9czc",
+            "stationName": "Podu Ros (Agentia BRD)",
+            "lat": 47.15088,
+            "stationId": "IS_T_1_F_11"
+          },
+          {
+            "lng": 27.5953,
+            "geohash": "u87s5znqc4",
+            "stationName": "Tesatura",
+            "lat": 47.149,
+            "stationId": "IS_T_1_F_12"
+          },
+          {
+            "lng": 27.60091,
+            "geohash": "u87shp465c",
+            "stationName": "Moldoplast",
+            "lat": 47.14818,
+            "stationId": "IS_T_1_F_13"
+          },
+          {
+            "lng": 27.60881,
+            "geohash": "u87shqb5ef",
+            "stationName": "Baza 3",
+            "lat": 47.14707,
+            "stationId": "IS_T_1_F_14"
+          },
+          {
+            "lng": 27.61584,
+            "geohash": "u87shqtjzd",
+            "stationName": "CFS",
+            "lat": 47.14608,
+            "stationId": "IS_T_1_F_15"
+          },
+          {
+            "lng": 27.61882,
+            "geohash": "u87shqx7m4",
+            "stationName": "Tepro",
+            "lat": 47.14565,
+            "stationId": "IS_T_1_F_16"
+          },
+          {
+            "lng": 27.62051,
+            "geohash": "u87shx0dsd",
+            "stationName": "CFS 2",
+            "lat": 47.14827,
+            "stationId": "IS_T_1_F_17"
+          },
+          {
+            "lng": 27.62112,
+            "geohash": "u87shx3ndd",
+            "stationName": "Pod Metalurgie",
+            "lat": 47.15033,
+            "stationId": "IS_T_1_F_18"
+          },
+          {
+            "lng": 27.62381,
+            "geohash": "u87sk8e437",
+            "stationName": "Tatarasi Sud",
+            "lat": 47.15647,
+            "stationId": "IS_T_1_F_19"
+          },
+          {
+            "lng": 27.62043,
+            "geohash": "u87sk90849",
+            "stationName": "Flora",
+            "lat": 47.15882,
+            "stationId": "IS_T_1_F_20"
+          },
+          {
+            "lng": 27.6145,
+            "geohash": "u87sk3hqbm",
+            "stationName": "Doctor Savini",
+            "lat": 47.16,
+            "stationId": "IS_T_1_F_21"
+          },
+          {
+            "lng": 27.60583,
+            "geohash": "u87sk1tvn6",
+            "stationName": "Ateneu",
+            "lat": 47.16243,
+            "stationId": "IS_T_1_F_22"
+          },
+          {
+            "lng": 27.5973508367,
+            "geohash": "u87s7czc8g",
+            "stationName": "Padurii",
+            "lat": 47.1632094618,
+            "stationId": "IS_T_1_F_23"
+          },
+          {
+            "lng": 27.5901,
+            "geohash": "u87s7cfrpf",
+            "stationName": "Targu Cucu",
+            "lat": 47.16415,
+            "stationId": "IS_T_1_F_24"
+          },
+          {
+            "lng": 27.58547,
+            "geohash": "u87s79zpk4",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16419,
+            "stationId": "IS_T_1_F_25"
+          },
+          {
+            "lng": 27.58067,
+            "geohash": "u87s7d5xs4",
+            "stationName": "Piata Unirii",
+            "lat": 47.16561,
+            "stationId": "IS_T_1_F_26"
+          },
+          {
+            "lng": 27.5769585379963,
+            "geohash": "u87s7dbftd",
+            "stationName": "Piata Eminescu",
+            "lat": 47.1688712810099,
+            "stationId": "IS_T_1_F_27"
+          },
+          {
+            "lng": 27.5716456184,
+            "geohash": "u87s7kj19b",
+            "stationName": "Universitate",
+            "lat": 47.1755542521,
+            "stationId": "IS_T_1_F_28"
+          },
+          {
+            "lng": 27.56717,
+            "geohash": "u87s7m1c39",
+            "stationName": "Triumf",
+            "lat": 47.18101,
+            "stationId": "IS_T_1_F_29"
+          },
+          {
+            "lng": 27.5649529704,
+            "geohash": "u87s7m80jy",
+            "stationName": "George Cosbuc",
+            "lat": 47.1835678947,
+            "stationId": "IS_T_1_F_30"
+          },
+          {
+            "lng": 27.56308,
+            "geohash": "u87s7jyufm",
+            "stationName": "Stadion",
+            "lat": 47.18575,
+            "stationId": "IS_T_1_F_31"
+          },
+          {
+            "lng": 27.55937,
+            "geohash": "u87s7nu17y",
+            "stationName": "Rond Copou",
+            "lat": 47.19065,
+            "stationId": "IS_T_1_F_32"
+          }
+        ],
+        "routeWayPoints":[{"lat": 47.19054, "lng": 27.55853, "geohash": "u87s7ng8b6"},{"lat": 47.19053, "lng": 27.5585, "geohash": "u87s7ng2z8"},{"lat": 47.19044, "lng": 27.55859, "geohash": "u87s7ng81x"},{"lat": 47.19039, "lng": 27.5587, "geohash": "u87s7nexuq"},{"lat": 47.19035, "lng": 27.55888, "geohash": "u87s7nez8q"},{"lat": 47.19036, "lng": 27.55907, "geohash": "u87s7nezub"},{"lat": 47.18814, "lng": 27.56093, "geohash": "u87s7nm6b4"},{"lat": 47.18798, "lng": 27.56111, "geohash": "u87s7nm3um"},{"lat": 47.18782, "lng": 27.56127, "geohash": "u87s7nm8bp"},{"lat": 47.18755, "lng": 27.56144, "geohash": "u87s7njxkh"},{"lat": 47.18439, "lng": 27.56412, "geohash": "u87s7jxsfx"},{"lat": 47.18364, "lng": 27.56482, "geohash": "u87s7m80dg"},{"lat": 47.1824, "lng": 27.56579, "geohash": "u87s7m2c3k"},{"lat": 47.18153, "lng": 27.56653, "geohash": "u87s7m1k6d"},{"lat": 47.18099, "lng": 27.56705, "geohash": "u87s7m19ny"},{"lat": 47.17118, "lng": 27.57523, "geohash": "u87s77r8j3"},{"lat": 47.17112, "lng": 27.57526, "geohash": "u87s77pxwn"},{"lat": 47.17069, "lng": 27.57567, "geohash": "u87s77pvpt"},{"lat": 47.17015, "lng": 27.57612, "geohash": "u87s7e0641"},{"lat": 47.16981, "lng": 27.57639, "geohash": "u87s7e0803"},{"lat": 47.16901, "lng": 27.5768, "geohash": "u87s7dbg6h"},{"lat": 47.16813, "lng": 27.57695, "geohash": "u87s7d8ym8"},{"lat": 47.1676, "lng": 27.57706, "geohash": "u87s7d950j"},{"lat": 47.16733, "lng": 27.57714, "geohash": "u87s7d919g"},{"lat": 47.16675, "lng": 27.57742, "geohash": "u87s7d3q0r"},{"lat": 47.1664, "lng": 27.57762, "geohash": "u87s7d3kjn"},{"lat": 47.16534, "lng": 27.58156, "geohash": "u87s7dhq0b"},{"lat": 47.16425, "lng": 27.58497, "geohash": "u87s79yz8m"},{"lat": 47.16401, "lng": 27.58596, "geohash": "u87s79zqr2"},{"lat": 47.16388, "lng": 27.58671, "geohash": "u87s7cbj8b"},{"lat": 47.16377, "lng": 27.58812, "geohash": "u87s7cchcg"},{"lat": 47.16397, "lng": 27.58914, "geohash": "u87s7ccy19"},{"lat": 47.16408, "lng": 27.58962, "geohash": "u87s7cfnst"},{"lat": 47.16414, "lng": 27.59033, "geohash": "u87s7cfxj2"},{"lat": 47.16427, "lng": 27.59098, "geohash": "u87s7cgpu3"},{"lat": 47.16431, "lng": 27.59136, "geohash": "u87s7f52j2"},{"lat": 47.16427, "lng": 27.59157, "geohash": "u87s7cgxf1"},{"lat": 47.16414, "lng": 27.59189, "geohash": "u87s7cgz18"},{"lat": 47.16358, "lng": 27.59312, "geohash": "u87s7cuey2"},{"lat": 47.16346, "lng": 27.59342, "geohash": "u87s7cugj6"},{"lat": 47.16332, "lng": 27.59364, "geohash": "u87s7cv462"},{"lat": 47.16274, "lng": 27.59437, "geohash": "u87s7ctwg7"},{"lat": 47.16235, "lng": 27.59467, "geohash": "u87s7ctud7"},{"lat": 47.16202, "lng": 27.59487, "geohash": "u87s7ctfxj"},{"lat": 47.16192, "lng": 27.59491, "geohash": "u87s7cw405"},{"lat": 47.1618, "lng": 27.59491, "geohash": "u87s7cw12h"},{"lat": 47.16169, "lng": 27.5948, "geohash": "u87s7ctbv2"},{"lat": 47.16152, "lng": 27.59428, "geohash": "u87s7cmxc2"},{"lat": 47.15986, "lng": 27.58891, "geohash": "u87s7c1wh5"},{"lat": 47.15948, "lng": 27.58798, "geohash": "u87s7c0gys"},{"lat": 47.15904, "lng": 27.58723, "geohash": "u87s7c03m4"},{"lat": 47.15868, "lng": 27.58642, "geohash": "u87s78zz4p"},{"lat": 47.15845, "lng": 27.58603, "geohash": "u87s78ztch"},{"lat": 47.15828, "lng": 27.58574, "geohash": "u87s78zkfk"},{"lat": 47.15809, "lng": 27.58544, "geohash": "u87s78z5g3"},{"lat": 47.1579, "lng": 27.58524, "geohash": "u87s78yfwt"},{"lat": 47.15768, "lng": 27.58507, "geohash": "u87s78yc6s"},{"lat": 47.15712, "lng": 27.58504, "geohash": "u87s78wy4h"},{"lat": 47.1566, "lng": 27.585, "geohash": "u87s78wg15"},{"lat": 47.15635, "lng": 27.58506, "geohash": "u87s78wcdk"},{"lat": 47.15574, "lng": 27.58541, "geohash": "u87s78rn4e"},{"lat": 47.15537, "lng": 27.58565, "geohash": "u87s78r7bn"},{"lat": 47.15523, "lng": 27.58578, "geohash": "u87s78r757"},{"lat": 47.15458, "lng": 27.5865, "geohash": "u87s78pzk4"},{"lat": 47.15314, "lng": 27.58799, "geohash": "u87s5zbyyy"},{"lat": 47.15297, "lng": 27.58816, "geohash": "u87s5zcjfw"},{"lat": 47.15283, "lng": 27.58822, "geohash": "u87s5zcjhh"},{"lat": 47.15266, "lng": 27.58827, "geohash": "u87s5zchjk"},{"lat": 47.15247, "lng": 27.58827, "geohash": "u87s5zc5j3"},{"lat": 47.1522, "lng": 27.58808, "geohash": "u87s5zc12z"},{"lat": 47.15168, "lng": 27.5877, "geohash": "u87s5z8y2n"},{"lat": 47.15158, "lng": 27.58766, "geohash": "u87s5z8tz5"},{"lat": 47.1515, "lng": 27.58768, "geohash": "u87s5z8trs"},{"lat": 47.15143, "lng": 27.58772, "geohash": "u87s5z8ubr"},{"lat": 47.15138, "lng": 27.58779, "geohash": "u87s5z8udn"},{"lat": 47.15132, "lng": 27.58798, "geohash": "u87s5z8uqe"},{"lat": 47.15124, "lng": 27.58828, "geohash": "u87s5z95vs"},{"lat": 47.15108, "lng": 27.58896, "geohash": "u87s5z9dvq"},{"lat": 47.14939, "lng": 27.59413, "geohash": "u87s5zm3jg"},{"lat": 47.14928, "lng": 27.59458, "geohash": "u87s5zmb2q"},{"lat": 47.14907, "lng": 27.5953, "geohash": "u87s5znr1p"},{"lat": 47.14892, "lng": 27.59605, "geohash": "u87s5zny6e"},{"lat": 47.14773, "lng": 27.6045, "geohash": "u87shnuzrm"},{"lat": 47.1469, "lng": 27.61033, "geohash": "u87shqc4x7"},{"lat": 47.14564, "lng": 27.61917, "geohash": "u87shqxem2"},{"lat": 47.14587, "lng": 27.61963, "geohash": "u87shw8h85"},{"lat": 47.15159, "lng": 27.62137, "geohash": "u87shx9mbt"},{"lat": 47.15253, "lng": 27.62167, "geohash": "u87shxc7rs"},{"lat": 47.15272, "lng": 27.62178, "geohash": "u87shxcsd0"},{"lat": 47.15288, "lng": 27.62192, "geohash": "u87shxctmm"},{"lat": 47.15305, "lng": 27.62218, "geohash": "u87shxcy7m"},{"lat": 47.1532, "lng": 27.62253, "geohash": "u87shxfp79"},{"lat": 47.15362, "lng": 27.62443, "geohash": "u87sk853xz"},{"lat": 47.15376, "lng": 27.62472, "geohash": "u87sk85dw9"},{"lat": 47.15392, "lng": 27.62496, "geohash": "u87sk85gkp"},{"lat": 47.15413, "lng": 27.62515, "geohash": "u87sk8hh8w"},{"lat": 47.15443, "lng": 27.62536, "geohash": "u87sk8hnmw"},{"lat": 47.15459, "lng": 27.62542, "geohash": "u87sk8hpqu"},{"lat": 47.15475, "lng": 27.62542, "geohash": "u87sk8k0qf"},{"lat": 47.155, "lng": 27.62533, "geohash": "u87sk8k1uc"},{"lat": 47.15521, "lng": 27.62521, "geohash": "u87sk8k540"},{"lat": 47.15538, "lng": 27.62508, "geohash": "u87sk87gzp"},{"lat": 47.15871, "lng": 27.62044, "geohash": "u87sk8bx6u"},{"lat": 47.159, "lng": 27.62002, "geohash": "u87sk90314"},{"lat": 47.15908, "lng": 27.61982, "geohash": "u87sk901s3"},{"lat": 47.15952, "lng": 27.617, "geohash": "u87sk3nh4e"},{"lat": 47.16018, "lng": 27.61246, "geohash": "u87sk34zby"},{"lat": 47.16034, "lng": 27.61183, "geohash": "u87sk362fk"},{"lat": 47.16081, "lng": 27.61046, "geohash": "u87sk337dk"},{"lat": 47.16166, "lng": 27.60804, "geohash": "u87sk1x89f"},{"lat": 47.16176, "lng": 27.60786, "geohash": "u87sk1x3jv"},{"lat": 47.16248, "lng": 27.60558, "geohash": "u87sk1tv2e"},{"lat": 47.16254, "lng": 27.60534, "geohash": "u87sk1tten"},{"lat": 47.16259, "lng": 27.60481, "geohash": "u87sk1tjyx"},{"lat": 47.16262, "lng": 27.60422, "geohash": "u87sk1sy0v"},{"lat": 47.16263, "lng": 27.60358, "geohash": "u87sk1sq4p"},{"lat": 47.16239, "lng": 27.60158, "geohash": "u87sk1dug6"},{"lat": 47.16246, "lng": 27.601, "geohash": "u87sk1dmjz"},{"lat": 47.16296, "lng": 27.59913, "geohash": "u87sk1c04k"},{"lat": 47.16312, "lng": 27.59819, "geohash": "u87sk1b3h6"},{"lat": 47.16338, "lng": 27.59469, "geohash": "u87s7cvfdg"},{"lat": 47.16345, "lng": 27.59349, "geohash": "u87s7cugnb"},{"lat": 47.16378, "lng": 27.59275, "geohash": "u87s7cukvt"},{"lat": 47.16376, "lng": 27.59273, "geohash": "u87s7cukv4"},{"lat": 47.16427, "lng": 27.59157, "geohash": "u87s7cgxf1"},{"lat": 47.16431, "lng": 27.59136, "geohash": "u87s7f52j2"},{"lat": 47.16427, "lng": 27.59098, "geohash": "u87s7cgpu3"},{"lat": 47.16414, "lng": 27.59033, "geohash": "u87s7cfxj2"},{"lat": 47.16408, "lng": 27.58962, "geohash": "u87s7cfnst"},{"lat": 47.16377, "lng": 27.58816, "geohash": "u87s7cchfe"},{"lat": 47.16389, "lng": 27.58676, "geohash": "u87s7cbjd4"},{"lat": 47.1641, "lng": 27.58573, "geohash": "u87s79zqf1"},{"lat": 47.16451, "lng": 27.58417, "geohash": "u87s7dn1jt"},{"lat": 47.16535, "lng": 27.5816, "geohash": "u87s7dhq1f"},{"lat": 47.16588, "lng": 27.5795, "geohash": "u87s7d6c0v"},{"lat": 47.1664, "lng": 27.57764, "geohash": "u87s7d3kjw"},{"lat": 47.16648, "lng": 27.57755, "geohash": "u87s7d3kem"},{"lat": 47.16675, "lng": 27.57742, "geohash": "u87s7d3q0r"},{"lat": 47.16702, "lng": 27.57728, "geohash": "u87s7d3pv1"},{"lat": 47.16738, "lng": 27.57712, "geohash": "u87s7d91ck"},{"lat": 47.16813, "lng": 27.57695, "geohash": "u87s7d8ym8"},{"lat": 47.16919, "lng": 27.57672, "geohash": "u87s7dbu2n"},{"lat": 47.16975, "lng": 27.57644, "geohash": "u87s7dbx9w"},{"lat": 47.16998, "lng": 27.57627, "geohash": "u87s7e03j9"},{"lat": 47.1701, "lng": 27.57621, "geohash": "u87s7e03sr"},{"lat": 47.17014, "lng": 27.57618, "geohash": "u87s7e03gx"},{"lat": 47.17109, "lng": 27.57533, "geohash": "u87s77pxxb"},{"lat": 47.17118, "lng": 27.57523, "geohash": "u87s77r8j3"},{"lat": 47.17831, "lng": 27.56926, "geohash": "u87s7ke3d6"},{"lat": 47.18099, "lng": 27.56705, "geohash": "u87s7m19ny"},{"lat": 47.18153, "lng": 27.56653, "geohash": "u87s7m1k6d"},{"lat": 47.1824, "lng": 27.56579, "geohash": "u87s7m2c3k"},{"lat": 47.18364, "lng": 27.56482, "geohash": "u87s7m80dg"},{"lat": 47.18469, "lng": 27.56387, "geohash": "u87s7jxqsx"},{"lat": 47.18755, "lng": 27.56144, "geohash": "u87s7njxkh"},{"lat": 47.18769, "lng": 27.56134, "geohash": "u87s7nm81y"},{"lat": 47.18789, "lng": 27.5612, "geohash": "u87s7nm3qs"},{"lat": 47.18801, "lng": 27.56108, "geohash": "u87s7nm65d"},{"lat": 47.18814, "lng": 27.56093, "geohash": "u87s7nm6b4"},{"lat": 47.19036, "lng": 27.55907, "geohash": "u87s7nezub"},{"lat": 47.19043, "lng": 27.55915, "geohash": "u87s7ngbnt"},{"lat": 47.1905, "lng": 27.55918, "geohash": "u87s7ngbx6"},{"lat": 47.19059, "lng": 27.55919, "geohash": "u87s7ngcpe"},{"lat": 47.19068, "lng": 27.55917, "geohash": "u87s7ngcxh"}],
+		"routeName": "T_1_F"
+      },
+      "name": "Copou-Podu Ros-Tatarasi-Copou",
+      "lineNumber": "AMB",
+	  "routeBackward": {
+        "duration": "01:10",
+        "name": "Tatarasi->Tg.Cucu->Copou",
+        "moveDirection": "B",
+        "stations": [
+          {
+            "lng": 27.55839,
+            "geohash": "u87s7ng2mj",
+            "stationName": "Rond Copou",
+            "lat": 47.19047,
+            "stationId": "IS_T_1_F_0"
+          },
+          {
+            "lng": 27.5623104581,
+            "geohash": "u87s7nn2bq",
+            "stationName": "Stadion",
+            "lat": 47.1864422727,
+            "stationId": "IS_T_1_F_1"
+          },
+          {
+            "lng": 27.56431,
+            "geohash": "u87s7jxdyu",
+            "stationName": "George Cosbuc",
+            "lat": 47.18403,
+            "stationId": "IS_T_1_F_2"
+          },
+          {
+            "lng": 27.56734,
+            "geohash": "u87s7kcvv8",
+            "stationName": "Triumf",
+            "lat": 47.1804,
+            "stationId": "IS_T_1_F_3"
+          },
+          {
+            "lng": 27.5720211276,
+            "geohash": "u87s77vmd9",
+            "stationName": "Universitate",
+            "lat": 47.1748701669,
+            "stationId": "IS_T_1_F_4"
+          },
+          {
+            "lng": 27.5766688594208,
+            "geohash": "u87s7dbdwz",
+            "stationName": "Piata Eminescu",
+            "lat": 47.1688968096557,
+            "stationId": "IS_T_1_F_5"
+          },
+          {
+            "lng": 27.5814238796,
+            "geohash": "u87s7dhjvv",
+            "stationName": "Piata Unirii",
+            "lat": 47.1653226849,
+            "stationId": "IS_T_1_F_6"
+          },
+          {
+            "lng": 27.5854,
+            "geohash": "u87s79znd7",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16407,
+            "stationId": "IS_T_1_F_7"
+          },
+          {
+            "lng": 27.5909,
+            "geohash": "u87s7cgp6d",
+            "stationName": "Targu Cucu",
+            "lat": 47.16419,
+            "stationId": "IS_T_1_F_8"
+          },
+          {
+            "lng": 27.58782,
+            "geohash": "u87s7c0g4",
+            "stationName": "Palatul Culturii",
+            "lat": 47.15935,
+            "stationId": "IS_T_1_F_9"
+          },
+          {
+            "lng": 27.58941,
+            "geohash": "u87s5z9czc",
+            "stationName": "Pod Rosu (Agentia BRD)",
+            "lat": 47.15088,
+            "stationId": "IS_T_1_F_11"
+          },
+          {
+            "lng": 27.5953,
+            "geohash": "u87s5znqc4",
+            "stationName": "Tesatura",
+            "lat": 47.149,
+            "stationId": "IS_T_1_F_12"
+          },
+          {
+            "lng": 27.60091,
+            "geohash": "u87shp465c",
+            "stationName": "Moldoplast",
+            "lat": 47.14818,
+            "stationId": "IS_T_1_F_13"
+          },
+          {
+            "lng": 27.60881,
+            "geohash": "u87shqb5ef",
+            "stationName": "Baza 3",
+            "lat": 47.14707,
+            "stationId": "IS_T_1_F_14"
+          },
+          {
+            "lng": 27.61584,
+            "geohash": "u87shqtjzd",
+            "stationName": "CFS",
+            "lat": 47.14608,
+            "stationId": "IS_T_1_F_15"
+          },
+          {
+            "lng": 27.61882,
+            "geohash": "u87shqx7m4",
+            "stationName": "Tepro",
+            "lat": 47.14565,
+            "stationId": "IS_T_1_F_16"
+          },
+          {
+            "lng": 27.62051,
+            "geohash": "u87shx0dsd",
+            "stationName": "CFS 2",
+            "lat": 47.14827,
+            "stationId": "IS_T_1_F_17"
+          },
+          {
+            "lng": 27.62112,
+            "geohash": "u87shx3ndd",
+            "stationName": "Pod Metalurgie",
+            "lat": 47.15033,
+            "stationId": "IS_T_1_F_18"
+          },
+          {
+            "lng": 27.62381,
+            "geohash": "u87sk8e437",
+            "stationName": "Tatarasi Sud",
+            "lat": 47.15647,
+            "stationId": "IS_T_1_F_19"
+          },
+          {
+            "lng": 27.62043,
+            "geohash": "u87sk90849",
+            "stationName": "Flora",
+            "lat": 47.15882,
+            "stationId": "IS_T_1_F_20"
+          },
+          {
+            "lng": 27.6145,
+            "geohash": "u87sk3hqbm",
+            "stationName": "Doctor Savini",
+            "lat": 47.16,
+            "stationId": "IS_T_1_F_21"
+          },
+          {
+            "lng": 27.60583,
+            "geohash": "u87sk1tvn6",
+            "stationName": "Ateneu",
+            "lat": 47.16243,
+            "stationId": "IS_T_1_F_22"
+          },
+          {
+            "lng": 27.5973508367,
+            "geohash": "u87s7czc8g",
+            "stationName": "Padurii",
+            "lat": 47.1632094618,
+            "stationId": "IS_T_1_F_23"
+          },
+          {
+            "lng": 27.5901,
+            "geohash": "u87s7cfrpf",
+            "stationName": "Targu Cucu",
+            "lat": 47.16415,
+            "stationId": "IS_T_1_F_24"
+          },
+          {
+            "lng": 27.58547,
+            "geohash": "u87s79zpk4",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16419,
+            "stationId": "IS_T_1_F_25"
+          },
+          {
+            "lng": 27.58067,
+            "geohash": "u87s7d5xs4",
+            "stationName": "Piata Unirii",
+            "lat": 47.16561,
+            "stationId": "IS_T_1_F_26"
+          },
+          {
+            "lng": 27.5769585379963,
+            "geohash": "u87s7dbftd",
+            "stationName": "Piata Eminescu",
+            "lat": 47.1688712810099,
+            "stationId": "IS_T_1_F_27"
+          },
+          {
+            "lng": 27.5716456184,
+            "geohash": "u87s7kj19b",
+            "stationName": "Universitate",
+            "lat": 47.1755542521,
+            "stationId": "IS_T_1_F_28"
+          },
+          {
+            "lng": 27.56717,
+            "geohash": "u87s7m1c39",
+            "stationName": "Triumf",
+            "lat": 47.18101,
+            "stationId": "IS_T_1_F_29"
+          },
+          {
+            "lng": 27.5649529704,
+            "geohash": "u87s7m80jy",
+            "stationName": "George Cosbuc",
+            "lat": 47.1835678947,
+            "stationId": "IS_T_1_F_30"
+          },
+          {
+            "lng": 27.56308,
+            "geohash": "u87s7jyufm",
+            "stationName": "Stadion",
+            "lat": 47.18575,
+            "stationId": "IS_T_1_F_31"
+          },
+          {
+            "lng": 27.55937,
+            "geohash": "u87s7nu17y",
+            "stationName": "Rond Copou",
+            "lat": 47.19065,
+            "stationId": "IS_T_1_F_32"
+          }
+        ],
+        "routeWayPoints":[{"lat": 47.16332, "lng": 27.59364, "geohash": "u87s7cv462"},{"lat": 47.16274, "lng": 27.59437, "geohash": "u87s7ctwg7"},{"lat": 47.16235, "lng": 27.59467, "geohash": "u87s7ctud7"},{"lat": 47.16202, "lng": 27.59487, "geohash": "u87s7ctfxj"},{"lat": 47.16192, "lng": 27.59491, "geohash": "u87s7cw405"},{"lat": 47.1618, "lng": 27.59491, "geohash": "u87s7cw12h"},{"lat": 47.16169, "lng": 27.5948, "geohash": "u87s7ctbv2"},{"lat": 47.16152, "lng": 27.59428, "geohash": "u87s7cmxc2"},{"lat": 47.15986, "lng": 27.58891, "geohash": "u87s7c1wh5"},{"lat": 47.15948, "lng": 27.58798, "geohash": "u87s7c0gys"},{"lat": 47.15904, "lng": 27.58723, "geohash": "u87s7c03m4"},{"lat": 47.15868, "lng": 27.58642, "geohash": "u87s78zz4p"},{"lat": 47.15845, "lng": 27.58603, "geohash": "u87s78ztch"},{"lat": 47.15828, "lng": 27.58574, "geohash": "u87s78zkfk"},{"lat": 47.15809, "lng": 27.58544, "geohash": "u87s78z5g3"},{"lat": 47.1579, "lng": 27.58524, "geohash": "u87s78yfwt"},{"lat": 47.15768, "lng": 27.58507, "geohash": "u87s78yc6s"},{"lat": 47.15712, "lng": 27.58504, "geohash": "u87s78wy4h"},{"lat": 47.1566, "lng": 27.585, "geohash": "u87s78wg15"},{"lat": 47.15635, "lng": 27.58506, "geohash": "u87s78wcdk"},{"lat": 47.15574, "lng": 27.58541, "geohash": "u87s78rn4e"},{"lat": 47.15537, "lng": 27.58565, "geohash": "u87s78r7bn"},{"lat": 47.15523, "lng": 27.58578, "geohash": "u87s78r757"},{"lat": 47.15458, "lng": 27.5865, "geohash": "u87s78pzk4"},{"lat": 47.15314, "lng": 27.58799, "geohash": "u87s5zbyyy"},{"lat": 47.15297, "lng": 27.58816, "geohash": "u87s5zcjfw"},{"lat": 47.15283, "lng": 27.58822, "geohash": "u87s5zcjhh"},{"lat": 47.15266, "lng": 27.58827, "geohash": "u87s5zchjk"},{"lat": 47.15247, "lng": 27.58827, "geohash": "u87s5zc5j3"},{"lat": 47.1522, "lng": 27.58808, "geohash": "u87s5zc12z"},{"lat": 47.15168, "lng": 27.5877, "geohash": "u87s5z8y2n"},{"lat": 47.15158, "lng": 27.58766, "geohash": "u87s5z8tz5"},{"lat": 47.1515, "lng": 27.58768, "geohash": "u87s5z8trs"},{"lat": 47.15143, "lng": 27.58772, "geohash": "u87s5z8ubr"},{"lat": 47.15138, "lng": 27.58779, "geohash": "u87s5z8udn"},{"lat": 47.15132, "lng": 27.58798, "geohash": "u87s5z8uqe"},{"lat": 47.15124, "lng": 27.58828, "geohash": "u87s5z95vs"},{"lat": 47.15108, "lng": 27.58896, "geohash": "u87s5z9dvq"},{"lat": 47.14939, "lng": 27.59413, "geohash": "u87s5zm3jg"},{"lat": 47.14928, "lng": 27.59458, "geohash": "u87s5zmb2q"},{"lat": 47.14907, "lng": 27.5953, "geohash": "u87s5znr1p"},{"lat": 47.14892, "lng": 27.59605, "geohash": "u87s5zny6e"},{"lat": 47.14773, "lng": 27.6045, "geohash": "u87shnuzrm"},{"lat": 47.1469, "lng": 27.61033, "geohash": "u87shqc4x7"},{"lat": 47.14564, "lng": 27.61917, "geohash": "u87shqxem2"},{"lat": 47.14587, "lng": 27.61963, "geohash": "u87shw8h85"},{"lat": 47.15159, "lng": 27.62137, "geohash": "u87shx9mbt"},{"lat": 47.15253, "lng": 27.62167, "geohash": "u87shxc7rs"},{"lat": 47.15272, "lng": 27.62178, "geohash": "u87shxcsd0"},{"lat": 47.15288, "lng": 27.62192, "geohash": "u87shxctmm"},{"lat": 47.15305, "lng": 27.62218, "geohash": "u87shxcy7m"},{"lat": 47.1532, "lng": 27.62253, "geohash": "u87shxfp79"},{"lat": 47.15362, "lng": 27.62443, "geohash": "u87sk853xz"},{"lat": 47.15376, "lng": 27.62472, "geohash": "u87sk85dw9"},{"lat": 47.15392, "lng": 27.62496, "geohash": "u87sk85gkp"},{"lat": 47.15413, "lng": 27.62515, "geohash": "u87sk8hh8w"},{"lat": 47.15443, "lng": 27.62536, "geohash": "u87sk8hnmw"},{"lat": 47.15459, "lng": 27.62542, "geohash": "u87sk8hpqu"},{"lat": 47.15475, "lng": 27.62542, "geohash": "u87sk8k0qf"},{"lat": 47.155, "lng": 27.62533, "geohash": "u87sk8k1uc"},{"lat": 47.15521, "lng": 27.62521, "geohash": "u87sk8k540"},{"lat": 47.15538, "lng": 27.62508, "geohash": "u87sk87gzp"},{"lat": 47.15871, "lng": 27.62044, "geohash": "u87sk8bx6u"},{"lat": 47.159, "lng": 27.62002, "geohash": "u87sk90314"},{"lat": 47.15908, "lng": 27.61982, "geohash": "u87sk901s3"},{"lat": 47.15952, "lng": 27.617, "geohash": "u87sk3nh4e"},{"lat": 47.16018, "lng": 27.61246, "geohash": "u87sk34zby"},{"lat": 47.16034, "lng": 27.61183, "geohash": "u87sk362fk"},{"lat": 47.16081, "lng": 27.61046, "geohash": "u87sk337dk"},{"lat": 47.16166, "lng": 27.60804, "geohash": "u87sk1x89f"},{"lat": 47.16176, "lng": 27.60786, "geohash": "u87sk1x3jv"},{"lat": 47.16248, "lng": 27.60558, "geohash": "u87sk1tv2e"},{"lat": 47.16254, "lng": 27.60534, "geohash": "u87sk1tten"},{"lat": 47.16259, "lng": 27.60481, "geohash": "u87sk1tjyx"},{"lat": 47.16262, "lng": 27.60422, "geohash": "u87sk1sy0v"},{"lat": 47.16263, "lng": 27.60358, "geohash": "u87sk1sq4p"},{"lat": 47.16239, "lng": 27.60158, "geohash": "u87sk1dug6"},{"lat": 47.16246, "lng": 27.601, "geohash": "u87sk1dmjz"},{"lat": 47.16296, "lng": 27.59913, "geohash": "u87sk1c04k"},{"lat": 47.16312, "lng": 27.59819, "geohash": "u87sk1b3h6"},{"lat": 47.16338, "lng": 27.59469, "geohash": "u87s7cvfdg"},{"lat": 47.16345, "lng": 27.59349, "geohash": "u87s7cugnb"},{"lat": 47.16378, "lng": 27.59275, "geohash": "u87s7cukvt"},{"lat": 47.16376, "lng": 27.59273, "geohash": "u87s7cukv4"},{"lat": 47.16427, "lng": 27.59157, "geohash": "u87s7cgxf1"},{"lat": 47.16431, "lng": 27.59136, "geohash": "u87s7f52j2"},{"lat": 47.16427, "lng": 27.59098, "geohash": "u87s7cgpu3"},{"lat": 47.16414, "lng": 27.59033, "geohash": "u87s7cfxj2"},{"lat": 47.16408, "lng": 27.58962, "geohash": "u87s7cfnst"},{"lat": 47.16377, "lng": 27.58816, "geohash": "u87s7cchfe"},{"lat": 47.16389, "lng": 27.58676, "geohash": "u87s7cbjd4"},{"lat": 47.1641, "lng": 27.58573, "geohash": "u87s79zqf1"},{"lat": 47.16451, "lng": 27.58417, "geohash": "u87s7dn1jt"},{"lat": 47.16535, "lng": 27.5816, "geohash": "u87s7dhq1f"},{"lat": 47.16588, "lng": 27.5795, "geohash": "u87s7d6c0v"},{"lat": 47.1664, "lng": 27.57764, "geohash": "u87s7d3kjw"},{"lat": 47.16648, "lng": 27.57755, "geohash": "u87s7d3kem"},{"lat": 47.16675, "lng": 27.57742, "geohash": "u87s7d3q0r"},{"lat": 47.16702, "lng": 27.57728, "geohash": "u87s7d3pv1"},{"lat": 47.16738, "lng": 27.57712, "geohash": "u87s7d91ck"},{"lat": 47.16813, "lng": 27.57695, "geohash": "u87s7d8ym8"},{"lat": 47.16919, "lng": 27.57672, "geohash": "u87s7dbu2n"},{"lat": 47.16975, "lng": 27.57644, "geohash": "u87s7dbx9w"},{"lat": 47.16998, "lng": 27.57627, "geohash": "u87s7e03j9"},{"lat": 47.1701, "lng": 27.57621, "geohash": "u87s7e03sr"},{"lat": 47.17014, "lng": 27.57618, "geohash": "u87s7e03gx"},{"lat": 47.17109, "lng": 27.57533, "geohash": "u87s77pxxb"},{"lat": 47.17118, "lng": 27.57523, "geohash": "u87s77r8j3"},{"lat": 47.17831, "lng": 27.56926, "geohash": "u87s7ke3d6"},{"lat": 47.18099, "lng": 27.56705, "geohash": "u87s7m19ny"},{"lat": 47.18153, "lng": 27.56653, "geohash": "u87s7m1k6d"},{"lat": 47.1824, "lng": 27.56579, "geohash": "u87s7m2c3k"},{"lat": 47.18364, "lng": 27.56482, "geohash": "u87s7m80dg"},{"lat": 47.18469, "lng": 27.56387, "geohash": "u87s7jxqsx"},{"lat": 47.18755, "lng": 27.56144, "geohash": "u87s7njxkh"},{"lat": 47.18769, "lng": 27.56134, "geohash": "u87s7nm81y"},{"lat": 47.18789, "lng": 27.5612, "geohash": "u87s7nm3qs"},{"lat": 47.18801, "lng": 27.56108, "geohash": "u87s7nm65d"},{"lat": 47.18814, "lng": 27.56093, "geohash": "u87s7nm6b4"},{"lat": 47.19036, "lng": 27.55907, "geohash": "u87s7nezub"},{"lat": 47.19043, "lng": 27.55915, "geohash": "u87s7ngbnt"},{"lat": 47.1905, "lng": 27.55918, "geohash": "u87s7ngbx6"},{"lat": 47.19059, "lng": 27.55919, "geohash": "u87s7ngcpe"},{"lat": 47.19068, "lng": 27.55917, "geohash": "u87s7ngcxh"}],
+		"routeName": "T_1_B"
+      }
+    },
+    {
+      "deviceType": "T",
+      "onlyOneRoute": false,
+      "color": "00a650",
+      "routeForward": {
+        "duration": "00:32",
+        "name": "Gara - Dancu",
+        "moveDirection": "F",
+        "stations": [
+          {
+            "lng": 27.57039,
+            "geohash": "u87s76khh8",
+            "stationName": "Gara",
+            "lat": 47.16637,
+            "stationId": "IS_T_3_F_0"
+          },
+          {
+            "lng": 27.5814238796,
+            "geohash": "u87s7dhjvv",
+            "stationName": "Piata Unirii",
+            "lat": 47.1653226849,
+            "stationId": "IS_T_3_F_2"
+          },
+          {
+            "lng": 27.5854,
+            "geohash": "u87s79znd7",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16407,
+            "stationId": "IS_T_3_F_3"
+          },
+          {
+            "lng": 27.5909,
+            "geohash": "u87s7cgp6d",
+            "stationName": "Targu Cucu",
+            "lat": 47.16419,
+            "stationId": "IS_T_3_F_4"
+          },
+          {
+            "lng": 27.5966985235,
+            "geohash": "u87s7cz39t",
+            "stationName": "Padurii",
+            "lat": 47.1632218627,
+            "stationId": "IS_T_3_F_5"
+          },
+          {
+            "lng": 27.6052,
+            "geohash": "u87sk1tmrz",
+            "stationName": "Ateneu",
+            "lat": 47.1625,
+            "stationId": "IS_T_3_F_6"
+          },
+          {
+            "lng": 27.61371,
+            "geohash": "u87sk35wwp",
+            "stationName": "Doctor Savini",
+            "lat": 47.15997,
+            "stationId": "IS_T_3_F_7"
+          },
+          {
+            "lng": 27.61923,
+            "geohash": "u87sk3p9yw",
+            "stationName": "Flora",
+            "lat": 47.15915,
+            "stationId": "IS_T_3_F_8"
+          },
+          {
+            "lng": 27.62395,
+            "geohash": "u87sk8e0kt",
+            "stationName": "Tatarasi Sud",
+            "lat": 47.15614,
+            "stationId": "IS_T_3_F_9"
+          },
+          {
+            "lng": 27.63158,
+            "geohash": "u87skb0sw7",
+            "stationName": "IPA",
+            "lat": 47.15411,
+            "stationId": "IS_T_3_F_10"
+          },
+          {
+            "lng": 27.63606,
+            "geohash": "u87shzgbnb",
+            "stationName": "SA Phoenix",
+            "lat": 47.15195,
+            "stationId": "IS_T_3_F_11"
+          },
+          {
+            "lng": 27.64109,
+            "geohash": "u87shzz8un",
+            "stationName": "Hotel Basarabia",
+            "lat": 47.15211,
+            "stationId": "IS_T_3_F_12"
+          },
+          {
+            "lng": 27.64746,
+            "geohash": "u87sjpuq0w",
+            "stationName": "Rond vechi Dancu",
+            "lat": 47.15301,
+            "stationId": "IS_T_3_F_13"
+          },
+          {
+            "lng": 27.65501,
+            "geohash": "u87sjrcf23",
+            "stationName": "Blocuri Dancu",
+            "lat": 47.15234,
+            "stationId": "IS_T_3_F_14"
+          },
+          {
+            "lng": 27.65942,
+            "geohash": "u87sjrsvr4",
+            "stationName": "Rond Dancu",
+            "lat": 47.15149,
+            "stationId": "IS_T_3_F_15"
+          }
+        ],
+        "routeWayPoints": [{"lat": 47.16654, "lng": 27.57022, "geohash": "u87s76kj08"},{"lat": 47.1661, "lng": 27.57096, "geohash": "u87s76kd3y"},{"lat": 47.16688, "lng": 27.57297, "geohash": "u87s76qnbz"},{"lat": 47.16737, "lng": 27.57417, "geohash": "u87s76wcue"},{"lat": 47.16728, "lng": 27.57441, "geohash": "u87s76x166"},{"lat": 47.16639, "lng": 27.5775, "geohash": "u87s7d3k4k"},{"lat": 47.16597, "lng": 27.57907, "geohash": "u87s7d63wy"},{"lat": 47.16528, "lng": 27.58176, "geohash": "u87s7dhmtt"},{"lat": 47.16409, "lng": 27.58565, "geohash": "u87s79zq8p"},{"lat": 47.16388, "lng": 27.58677, "geohash": "u87s7cbjd2"},{"lat": 47.16379, "lng": 27.58822, "geohash": "u87s7cchup"},{"lat": 47.16404, "lng": 27.58944, "geohash": "u87s7cfn2w"},{"lat": 47.16422, "lng": 27.59073, "geohash": "u87s7cfzqx"},{"lat": 47.16421, "lng": 27.59074, "geohash": "u87s7cfzqv"},{"lat": 47.1643, "lng": 27.59121, "geohash": "u87s7cgrcy"},{"lat": 47.1643, "lng": 27.59145, "geohash": "u87s7cgrzq"},{"lat": 47.16423, "lng": 27.59171, "geohash": "u87s7cgxt3"},{"lat": 47.16346, "lng": 27.59342, "geohash": "u87s7cugj6"},{"lat": 47.16343, "lng": 27.5937, "geohash": "u87s7cv4gu"},{"lat": 47.16342, "lng": 27.59407, "geohash": "u87s7cv6u6"},{"lat": 47.1632, "lng": 27.59707, "geohash": "u87s7cz9d3"},{"lat": 47.16318, "lng": 27.5979, "geohash": "u87sk1b1mt"},{"lat": 47.16316, "lng": 27.59817, "geohash": "u87sk1b37f"},{"lat": 47.16306, "lng": 27.5988, "geohash": "u87sk1bbdx"},{"lat": 47.16248, "lng": 27.60096, "geohash": "u87sk1dmkg"},{"lat": 47.16238, "lng": 27.60163, "geohash": "u87sk1duu8"},{"lat": 47.1624, "lng": 27.60163, "geohash": "u87sk1duus"},{"lat": 47.16263, "lng": 27.60358, "geohash": "u87sk1sq4p"},{"lat": 47.16262, "lng": 27.60422, "geohash": "u87sk1sy0v"},{"lat": 47.16254, "lng": 27.60534, "geohash": "u87sk1tten"},{"lat": 47.16234, "lng": 27.60606, "geohash": "u87sk1whec"},{"lat": 47.16176, "lng": 27.60786, "geohash": "u87sk1x3jv"},{"lat": 47.16166, "lng": 27.60804, "geohash": "u87sk1x89f"},{"lat": 47.16081, "lng": 27.61046, "geohash": "u87sk337dk"},{"lat": 47.16034, "lng": 27.61183, "geohash": "u87sk362fk"},{"lat": 47.16018, "lng": 27.61246, "geohash": "u87sk34zby"},{"lat": 47.1598, "lng": 27.61514, "geohash": "u87sk3htxr"},{"lat": 47.15928, "lng": 27.61864, "geohash": "u87sk3p68y"},{"lat": 47.15908, "lng": 27.61982, "geohash": "u87sk901s3"},{"lat": 47.159, "lng": 27.62002, "geohash": "u87sk90314"},{"lat": 47.1584, "lng": 27.62088, "geohash": "u87sk8bvt4"},{"lat": 47.15538, "lng": 27.62508, "geohash": "u87sk87gzp"},{"lat": 47.15563, "lng": 27.62627, "geohash": "u87sk8kv6w"},{"lat": 47.15568, "lng": 27.62659, "geohash": "u87sk8mjdp"},{"lat": 47.15568, "lng": 27.62679, "geohash": "u87sk8mjwz"},{"lat": 47.15496, "lng": 27.62915, "geohash": "u87sk8qctc"},{"lat": 47.15466, "lng": 27.63022, "geohash": "u87sk8pxyc"},{"lat": 47.15313, "lng": 27.63425, "geohash": "u87shzfwus"},{"lat": 47.15303, "lng": 27.63443, "geohash": "u87shzfy2c"},{"lat": 47.15236, "lng": 27.63548, "geohash": "u87shzgd3k"},{"lat": 47.15193, "lng": 27.63623, "geohash": "u87shzspfu"},{"lat": 47.15183, "lng": 27.63653, "geohash": "u87shzsr3f"},{"lat": 47.15174, "lng": 27.63694, "geohash": "u87shzswg3"},{"lat": 47.15172, "lng": 27.63727, "geohash": "u87shzsyej"},{"lat": 47.15171, "lng": 27.63928, "geohash": "u87shzwq9g"},{"lat": 47.15173, "lng": 27.63956, "geohash": "u87shzww8r"},{"lat": 47.15177, "lng": 27.63981, "geohash": "u87shzwwyr"},{"lat": 47.1531, "lng": 27.64421, "geohash": "u87sjpcysy"},{"lat": 47.15319, "lng": 27.64464, "geohash": "u87sjpfpnz"},{"lat": 47.15324, "lng": 27.645, "geohash": "u87sjpfrx1"},{"lat": 47.15323, "lng": 27.64564, "geohash": "u87sjpfzqp"},{"lat": 47.15199, "lng": 27.65941, "geohash": "u87sjrubqb"}],
+        "routeName": "T_3_F"
+      },
+      "name": "Gara - Rond Dancu",
+      "lineNumber": "POL",
+      "routeBackward": {
+        "duration": "00:32",
+        "name": "Dancu - Gara",
+        "moveDirection": "B",
+        "stations": [
+          {
+            "lng": 27.65942,
+            "geohash": "u87sjrsvr4",
+            "stationName": "Rond Dancu",
+            "lat": 47.15149,
+            "stationId": "IS_T_3_B_0"
+          },
+          {
+            "lng": 27.65589,
+            "geohash": "u87sjrf6hc",
+            "stationName": "Blocuri Dancu",
+            "lat": 47.1523,
+            "stationId": "IS_T_3_B_1"
+          },
+          {
+            "lng": 27.64852,
+            "geohash": "u87sjpvn1h",
+            "stationName": "Rond vechi Dancu",
+            "lat": 47.153,
+            "stationId": "IS_T_3_B_2"
+          },
+          {
+            "lng": 27.64193,
+            "geohash": "u87sjpb4zd",
+            "stationName": "Hotel Basarabia",
+            "lat": 47.15243,
+            "stationId": "IS_T_3_B_3"
+          },
+          {
+            "lng": 27.63616,
+            "geohash": "u87shzu09j",
+            "stationName": "SA Phoenix",
+            "lat": 47.15206,
+            "stationId": "IS_T_3_B_4"
+          },
+          {
+            "lng": 27.63247,
+            "geohash": "u87skb1754",
+            "stationName": "IPA",
+            "lat": 47.15385,
+            "stationId": "IS_T_3_B_5"
+          },
+          {
+            "lng": 27.62392,
+            "geohash": "u87sk8e15v",
+            "stationName": "Tatarasi Sud",
+            "lat": 47.15627,
+            "stationId": "IS_T_3_B_6"
+          },
+          {
+            "lng": 27.62043,
+            "geohash": "u87sk90849",
+            "stationName": "Flora",
+            "lat": 47.15882,
+            "stationId": "IS_T_3_B_7"
+          },
+          {
+            "lng": 27.61443,
+            "geohash": "u87sk3hnwb",
+            "stationName": "Doctor Savini",
+            "lat": 47.15993,
+            "stationId": "IS_T_3_B_8"
+          },
+          {
+            "lng": 27.60583,
+            "geohash": "u87sk1tvn6",
+            "stationName": "Ateneu",
+            "lat": 47.16243,
+            "stationId": "IS_T_3_B_9"
+          },
+          {
+            "lng": 27.5973508367,
+            "geohash": "u87s7czc8g",
+            "stationName": "Padurii",
+            "lat": 47.1632094618,
+            "stationId": "IS_T_3_B_10"
+          },
+          {
+            "lng": 27.5901,
+            "geohash": "u87s7cfrpf",
+            "stationName": "Targu Cucu",
+            "lat": 47.16415,
+            "stationId": "IS_T_3_B_11"
+          },
+          {
+            "lng": 27.58547,
+            "geohash": "u87s79zpk4",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16419,
+            "stationId": "IS_T_3_B_12"
+          },
+          {
+            "lng": 27.58067,
+            "geohash": "u87s7d5xs4",
+            "stationName": "Piata Unirii",
+            "lat": 47.16561,
+            "stationId": "IS_T_3_B_13"
+          },
+          {
+            "lng": 27.57243,
+            "geohash": "u87s76twkh",
+            "stationName": "Vointa",
+            "lat": 47.16815,
+            "stationId": "IS_T_3_B_14"
+          },
+          {
+            "lng": 27.56835,
+            "geohash": "u87s76dwj1",
+            "stationName": "Billa",
+            "lat": 47.16809,
+            "stationId": "IS_T_3_B_15"
+          },
+          {
+            "lng": 27.57039,
+            "geohash": "u87s76khh8",
+            "stationName": "Gara",
+            "lat": 47.16637,
+            "stationId": "IS_T_3_B_16"
+          }
+        ],
+        "routeWayPoints": [{"lat": 47.15198, "lng": 27.65943, "geohash": "u87sjrubpq"},{"lat": 47.15325, "lng": 27.64529, "geohash": "u87sjpfxtf"},{"lat": 47.15324, "lng": 27.64494, "geohash": "u87sjpfrtc"},{"lat": 47.1531, "lng": 27.64421, "geohash": "u87sjpcysy"},{"lat": 47.15184, "lng": 27.64006, "geohash": "u87shzwzkh"},{"lat": 47.15173, "lng": 27.63956, "geohash": "u87shzww8r"},{"lat": 47.15171, "lng": 27.63894, "geohash": "u87shzwn9g"},{"lat": 47.15174, "lng": 27.63693, "geohash": "u87shzswg1"},{"lat": 47.15183, "lng": 27.63653, "geohash": "u87shzsr3f"},{"lat": 47.15193, "lng": 27.63623, "geohash": "u87shzspfu"},{"lat": 47.15236, "lng": 27.63548, "geohash": "u87shzgd3k"},{"lat": 47.15303, "lng": 27.63443, "geohash": "u87shzfy2c"},{"lat": 47.15313, "lng": 27.63425, "geohash": "u87shzfwus"},{"lat": 47.15466, "lng": 27.6302, "geohash": "u87sk8pxy3"},{"lat": 47.15567, "lng": 27.62686, "geohash": "u87sk8mm8q"},{"lat": 47.15569, "lng": 27.62668, "geohash": "u87sk8mju3"},{"lat": 47.15566, "lng": 27.62644, "geohash": "u87sk8kvws"},{"lat": 47.15538, "lng": 27.62508, "geohash": "u87sk87gzp"},{"lat": 47.15891, "lng": 27.62015, "geohash": "u87sk902s1"},{"lat": 47.159, "lng": 27.62002, "geohash": "u87sk90314"},{"lat": 47.15908, "lng": 27.61982, "geohash": "u87sk901s3"},{"lat": 47.15928, "lng": 27.61864, "geohash": "u87sk3p68y"},{"lat": 47.15971, "lng": 27.61576, "geohash": "u87sk3jjjz"},{"lat": 47.16018, "lng": 27.61246, "geohash": "u87sk34zby"},{"lat": 47.16034, "lng": 27.61183, "geohash": "u87sk362fk"},{"lat": 47.16084, "lng": 27.61037, "geohash": "u87sk337b3"},{"lat": 47.16166, "lng": 27.60804, "geohash": "u87sk1x89f"},{"lat": 47.16176, "lng": 27.60786, "geohash": "u87sk1x3jv"},{"lat": 47.16182, "lng": 27.60769, "geohash": "u87sk1x39b"},{"lat": 47.16248, "lng": 27.60558, "geohash": "u87sk1tv2e"},{"lat": 47.16254, "lng": 27.60534, "geohash": "u87sk1tten"},{"lat": 47.16262, "lng": 27.60422, "geohash": "u87sk1sy0v"},{"lat": 47.16263, "lng": 27.60358, "geohash": "u87sk1sq4p"},{"lat": 47.1626, "lng": 27.60325, "geohash": "u87sk1sn43"},{"lat": 47.1624, "lng": 27.6017, "geohash": "u87sk1duyh"},{"lat": 47.16248, "lng": 27.60089, "geohash": "u87sk1dm77"},{"lat": 47.16292, "lng": 27.59929, "geohash": "u87sk19pyj"},{"lat": 47.16309, "lng": 27.59825, "geohash": "u87sk1b2vv"},{"lat": 47.1632, "lng": 27.59659, "geohash": "u87s7cz1x1"},{"lat": 47.16324, "lng": 27.5966, "geohash": "u87s7cz1z3"},{"lat": 47.16342, "lng": 27.59407, "geohash": "u87s7cv6u6"},{"lat": 47.16343, "lng": 27.5937, "geohash": "u87s7cv4gu"},{"lat": 47.16346, "lng": 27.59342, "geohash": "u87s7cugj6"},{"lat": 47.16423, "lng": 27.59171, "geohash": "u87s7cgxt3"},{"lat": 47.1643, "lng": 27.59145, "geohash": "u87s7cgrzq"},{"lat": 47.1643, "lng": 27.59121, "geohash": "u87s7cgrcy"},{"lat": 47.16419, "lng": 27.59065, "geohash": "u87s7cfzkd"},{"lat": 47.16408, "lng": 27.58962, "geohash": "u87s7cfnst"},{"lat": 47.1638, "lng": 27.58845, "geohash": "u87s7ccm13"},{"lat": 47.16379, "lng": 27.58813, "geohash": "u87s7cchfp"},{"lat": 47.16388, "lng": 27.58677, "geohash": "u87s7cbjd2"},{"lat": 47.16407, "lng": 27.58573, "geohash": "u87s79zqd5"},{"lat": 47.16421, "lng": 27.5852, "geohash": "u87s79yzmt"},{"lat": 47.16528, "lng": 27.58178, "geohash": "u87s7dhmwj"},{"lat": 47.16578, "lng": 27.57974, "geohash": "u87s7d6bwd"},{"lat": 47.1658, "lng": 27.57975, "geohash": "u87s7d6bwy"},{"lat": 47.16635, "lng": 27.57763, "geohash": "u87s7d37vk"},{"lat": 47.16672, "lng": 27.57639, "geohash": "u87s7d2w03"},{"lat": 47.16728, "lng": 27.57441, "geohash": "u87s76x166"},{"lat": 47.1692, "lng": 27.56946, "geohash": "u87s76gkwb"},{"lat": 47.1691, "lng": 27.56915, "geohash": "u87s76g5zv"},{"lat": 47.16791, "lng": 27.56818, "geohash": "u87s76dscp"},{"lat": 47.16769, "lng": 27.56807, "geohash": "u87s76d7ww"},{"lat": 47.16652, "lng": 27.57024, "geohash": "u87s76khch"}],
+        "routeName": "T_3_B"
+      }
+    },
+	{
+      "deviceType": "T",
+      "onlyOneRoute": false,
+      "color": "00a650",
+      "routeForward": {
+        "duration": "00:32",
+        "name": "Gara - Dancu",
+        "moveDirection": "F",
+        "stations": [
+          {
+            "lng": 27.57039,
+            "geohash": "u87s76khh8",
+            "stationName": "Gara",
+            "lat": 47.16637,
+            "stationId": "IS_T_3_F_0"
+          },
+          {
+            "lng": 27.5814238796,
+            "geohash": "u87s7dhjvv",
+            "stationName": "Piata Unirii",
+            "lat": 47.1653226849,
+            "stationId": "IS_T_3_F_2"
+          },
+          {
+            "lng": 27.5854,
+            "geohash": "u87s79znd7",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16407,
+            "stationId": "IS_T_3_F_3"
+          },
+          {
+            "lng": 27.5909,
+            "geohash": "u87s7cgp6d",
+            "stationName": "Targu Cucu",
+            "lat": 47.16419,
+            "stationId": "IS_T_3_F_4"
+          },
+          {
+            "lng": 27.5966985235,
+            "geohash": "u87s7cz39t",
+            "stationName": "Padurii",
+            "lat": 47.1632218627,
+            "stationId": "IS_T_3_F_5"
+          },
+          {
+            "lng": 27.6052,
+            "geohash": "u87sk1tmrz",
+            "stationName": "Ateneu",
+            "lat": 47.1625,
+            "stationId": "IS_T_3_F_6"
+          },
+          {
+            "lng": 27.61371,
+            "geohash": "u87sk35wwp",
+            "stationName": "Doctor Savini",
+            "lat": 47.15997,
+            "stationId": "IS_T_3_F_7"
+          },
+          {
+            "lng": 27.61923,
+            "geohash": "u87sk3p9yw",
+            "stationName": "Flora",
+            "lat": 47.15915,
+            "stationId": "IS_T_3_F_8"
+          },
+          {
+            "lng": 27.62395,
+            "geohash": "u87sk8e0kt",
+            "stationName": "Tatarasi Sud",
+            "lat": 47.15614,
+            "stationId": "IS_T_3_F_9"
+          },
+          {
+            "lng": 27.63158,
+            "geohash": "u87skb0sw7",
+            "stationName": "IPA",
+            "lat": 47.15411,
+            "stationId": "IS_T_3_F_10"
+          },
+          {
+            "lng": 27.63606,
+            "geohash": "u87shzgbnb",
+            "stationName": "SA Phoenix",
+            "lat": 47.15195,
+            "stationId": "IS_T_3_F_11"
+          },
+          {
+            "lng": 27.64109,
+            "geohash": "u87shzz8un",
+            "stationName": "Hotel Basarabia",
+            "lat": 47.15211,
+            "stationId": "IS_T_3_F_12"
+          },
+          {
+            "lng": 27.64746,
+            "geohash": "u87sjpuq0w",
+            "stationName": "Rond vechi Dancu",
+            "lat": 47.15301,
+            "stationId": "IS_T_3_F_13"
+          },
+          {
+            "lng": 27.65501,
+            "geohash": "u87sjrcf23",
+            "stationName": "Blocuri Dancu",
+            "lat": 47.15234,
+            "stationId": "IS_T_3_F_14"
+          },
+          {
+            "lng": 27.65942,
+            "geohash": "u87sjrsvr4",
+            "stationName": "Rond Dancu",
+            "lat": 47.15149,
+            "stationId": "IS_T_3_F_15"
+          }
+        ],
+        "routeWayPoints": [{"lat": 47.16654, "lng": 27.57022, "geohash": "u87s76kj08"},{"lat": 47.1661, "lng": 27.57096, "geohash": "u87s76kd3y"},{"lat": 47.16688, "lng": 27.57297, "geohash": "u87s76qnbz"},{"lat": 47.16737, "lng": 27.57417, "geohash": "u87s76wcue"},{"lat": 47.16728, "lng": 27.57441, "geohash": "u87s76x166"},{"lat": 47.16639, "lng": 27.5775, "geohash": "u87s7d3k4k"},{"lat": 47.16597, "lng": 27.57907, "geohash": "u87s7d63wy"},{"lat": 47.16528, "lng": 27.58176, "geohash": "u87s7dhmtt"},{"lat": 47.16409, "lng": 27.58565, "geohash": "u87s79zq8p"},{"lat": 47.16388, "lng": 27.58677, "geohash": "u87s7cbjd2"},{"lat": 47.16379, "lng": 27.58822, "geohash": "u87s7cchup"},{"lat": 47.16404, "lng": 27.58944, "geohash": "u87s7cfn2w"},{"lat": 47.16422, "lng": 27.59073, "geohash": "u87s7cfzqx"},{"lat": 47.16421, "lng": 27.59074, "geohash": "u87s7cfzqv"},{"lat": 47.1643, "lng": 27.59121, "geohash": "u87s7cgrcy"},{"lat": 47.1643, "lng": 27.59145, "geohash": "u87s7cgrzq"},{"lat": 47.16423, "lng": 27.59171, "geohash": "u87s7cgxt3"},{"lat": 47.16346, "lng": 27.59342, "geohash": "u87s7cugj6"},{"lat": 47.16343, "lng": 27.5937, "geohash": "u87s7cv4gu"},{"lat": 47.16342, "lng": 27.59407, "geohash": "u87s7cv6u6"},{"lat": 47.1632, "lng": 27.59707, "geohash": "u87s7cz9d3"},{"lat": 47.16318, "lng": 27.5979, "geohash": "u87sk1b1mt"},{"lat": 47.16316, "lng": 27.59817, "geohash": "u87sk1b37f"},{"lat": 47.16306, "lng": 27.5988, "geohash": "u87sk1bbdx"},{"lat": 47.16248, "lng": 27.60096, "geohash": "u87sk1dmkg"},{"lat": 47.16238, "lng": 27.60163, "geohash": "u87sk1duu8"},{"lat": 47.1624, "lng": 27.60163, "geohash": "u87sk1duus"},{"lat": 47.16263, "lng": 27.60358, "geohash": "u87sk1sq4p"},{"lat": 47.16262, "lng": 27.60422, "geohash": "u87sk1sy0v"},{"lat": 47.16254, "lng": 27.60534, "geohash": "u87sk1tten"},{"lat": 47.16234, "lng": 27.60606, "geohash": "u87sk1whec"},{"lat": 47.16176, "lng": 27.60786, "geohash": "u87sk1x3jv"},{"lat": 47.16166, "lng": 27.60804, "geohash": "u87sk1x89f"},{"lat": 47.16081, "lng": 27.61046, "geohash": "u87sk337dk"},{"lat": 47.16034, "lng": 27.61183, "geohash": "u87sk362fk"},{"lat": 47.16018, "lng": 27.61246, "geohash": "u87sk34zby"},{"lat": 47.1598, "lng": 27.61514, "geohash": "u87sk3htxr"},{"lat": 47.15928, "lng": 27.61864, "geohash": "u87sk3p68y"},{"lat": 47.15908, "lng": 27.61982, "geohash": "u87sk901s3"},{"lat": 47.159, "lng": 27.62002, "geohash": "u87sk90314"},{"lat": 47.1584, "lng": 27.62088, "geohash": "u87sk8bvt4"},{"lat": 47.15538, "lng": 27.62508, "geohash": "u87sk87gzp"},{"lat": 47.15563, "lng": 27.62627, "geohash": "u87sk8kv6w"},{"lat": 47.15568, "lng": 27.62659, "geohash": "u87sk8mjdp"},{"lat": 47.15568, "lng": 27.62679, "geohash": "u87sk8mjwz"},{"lat": 47.15496, "lng": 27.62915, "geohash": "u87sk8qctc"},{"lat": 47.15466, "lng": 27.63022, "geohash": "u87sk8pxyc"},{"lat": 47.15313, "lng": 27.63425, "geohash": "u87shzfwus"},{"lat": 47.15303, "lng": 27.63443, "geohash": "u87shzfy2c"},{"lat": 47.15236, "lng": 27.63548, "geohash": "u87shzgd3k"},{"lat": 47.15193, "lng": 27.63623, "geohash": "u87shzspfu"},{"lat": 47.15183, "lng": 27.63653, "geohash": "u87shzsr3f"},{"lat": 47.15174, "lng": 27.63694, "geohash": "u87shzswg3"},{"lat": 47.15172, "lng": 27.63727, "geohash": "u87shzsyej"},{"lat": 47.15171, "lng": 27.63928, "geohash": "u87shzwq9g"},{"lat": 47.15173, "lng": 27.63956, "geohash": "u87shzww8r"},{"lat": 47.15177, "lng": 27.63981, "geohash": "u87shzwwyr"},{"lat": 47.1531, "lng": 27.64421, "geohash": "u87sjpcysy"},{"lat": 47.15319, "lng": 27.64464, "geohash": "u87sjpfpnz"},{"lat": 47.15324, "lng": 27.645, "geohash": "u87sjpfrx1"},{"lat": 47.15323, "lng": 27.64564, "geohash": "u87sjpfzqp"},{"lat": 47.15199, "lng": 27.65941, "geohash": "u87sjrubqb"}],
+        "routeName": "T_3E_F"
+      },
+      "name": "Gara - Rond Dancu",
+      "lineNumber": "PMP",
+	  "onlyForStudents": true,
+      "routeBackward": {
+        "duration": "00:32",
+        "name": "Dancu - Gara",
+        "moveDirection": "B",
+        "stations": [
+          {
+            "lng": 27.65942,
+            "geohash": "u87sjrsvr4",
+            "stationName": "Rond Dancu",
+            "lat": 47.15149,
+            "stationId": "IS_T_3_B_0"
+          },
+          {
+            "lng": 27.65589,
+            "geohash": "u87sjrf6hc",
+            "stationName": "Blocuri Dancu",
+            "lat": 47.1523,
+            "stationId": "IS_T_3_B_1"
+          },
+          {
+            "lng": 27.64852,
+            "geohash": "u87sjpvn1h",
+            "stationName": "Rond vechi Dancu",
+            "lat": 47.153,
+            "stationId": "IS_T_3_B_2"
+          },
+          {
+            "lng": 27.64193,
+            "geohash": "u87sjpb4zd",
+            "stationName": "Hotel Basarabia",
+            "lat": 47.15243,
+            "stationId": "IS_T_3_B_3"
+          },
+          {
+            "lng": 27.63616,
+            "geohash": "u87shzu09j",
+            "stationName": "SA Phoenix",
+            "lat": 47.15206,
+            "stationId": "IS_T_3_B_4"
+          },
+          {
+            "lng": 27.63247,
+            "geohash": "u87skb1754",
+            "stationName": "IPA",
+            "lat": 47.15385,
+            "stationId": "IS_T_3_B_5"
+          },
+          {
+            "lng": 27.62392,
+            "geohash": "u87sk8e15v",
+            "stationName": "Tatarasi Sud",
+            "lat": 47.15627,
+            "stationId": "IS_T_3_B_6"
+          },
+          {
+            "lng": 27.62043,
+            "geohash": "u87sk90849",
+            "stationName": "Flora",
+            "lat": 47.15882,
+            "stationId": "IS_T_3_B_7"
+          },
+          {
+            "lng": 27.61443,
+            "geohash": "u87sk3hnwb",
+            "stationName": "Doctor Savini",
+            "lat": 47.15993,
+            "stationId": "IS_T_3_B_8"
+          },
+          {
+            "lng": 27.60583,
+            "geohash": "u87sk1tvn6",
+            "stationName": "Ateneu",
+            "lat": 47.16243,
+            "stationId": "IS_T_3_B_9"
+          },
+          {
+            "lng": 27.5973508367,
+            "geohash": "u87s7czc8g",
+            "stationName": "Padurii",
+            "lat": 47.1632094618,
+            "stationId": "IS_T_3_B_10"
+          },
+          {
+            "lng": 27.5901,
+            "geohash": "u87s7cfrpf",
+            "stationName": "Targu Cucu",
+            "lat": 47.16415,
+            "stationId": "IS_T_3_B_11"
+          },
+          {
+            "lng": 27.58547,
+            "geohash": "u87s79zpk4",
+            "stationName": "Filarmonica (Teatrul National)",
+            "lat": 47.16419,
+            "stationId": "IS_T_3_B_12"
+          },
+          {
+            "lng": 27.58067,
+            "geohash": "u87s7d5xs4",
+            "stationName": "Piata Unirii",
+            "lat": 47.16561,
+            "stationId": "IS_T_3_B_13"
+          },
+          {
+            "lng": 27.57243,
+            "geohash": "u87s76twkh",
+            "stationName": "Vointa",
+            "lat": 47.16815,
+            "stationId": "IS_T_3_B_14"
+          },
+          {
+            "lng": 27.56835,
+            "geohash": "u87s76dwj1",
+            "stationName": "Billa",
+            "lat": 47.16809,
+            "stationId": "IS_T_3_B_15"
+          },
+          {
+            "lng": 27.57039,
+            "geohash": "u87s76khh8",
+            "stationName": "Gara",
+            "lat": 47.16637,
+            "stationId": "IS_T_3_B_16"
+          }
+        ],
+        "routeWayPoints": [{"lat": 47.15198, "lng": 27.65943, "geohash": "u87sjrubpq"},{"lat": 47.15325, "lng": 27.64529, "geohash": "u87sjpfxtf"},{"lat": 47.15324, "lng": 27.64494, "geohash": "u87sjpfrtc"},{"lat": 47.1531, "lng": 27.64421, "geohash": "u87sjpcysy"},{"lat": 47.15184, "lng": 27.64006, "geohash": "u87shzwzkh"},{"lat": 47.15173, "lng": 27.63956, "geohash": "u87shzww8r"},{"lat": 47.15171, "lng": 27.63894, "geohash": "u87shzwn9g"},{"lat": 47.15174, "lng": 27.63693, "geohash": "u87shzswg1"},{"lat": 47.15183, "lng": 27.63653, "geohash": "u87shzsr3f"},{"lat": 47.15193, "lng": 27.63623, "geohash": "u87shzspfu"},{"lat": 47.15236, "lng": 27.63548, "geohash": "u87shzgd3k"},{"lat": 47.15303, "lng": 27.63443, "geohash": "u87shzfy2c"},{"lat": 47.15313, "lng": 27.63425, "geohash": "u87shzfwus"},{"lat": 47.15466, "lng": 27.6302, "geohash": "u87sk8pxy3"},{"lat": 47.15567, "lng": 27.62686, "geohash": "u87sk8mm8q"},{"lat": 47.15569, "lng": 27.62668, "geohash": "u87sk8mju3"},{"lat": 47.15566, "lng": 27.62644, "geohash": "u87sk8kvws"},{"lat": 47.15538, "lng": 27.62508, "geohash": "u87sk87gzp"},{"lat": 47.15891, "lng": 27.62015, "geohash": "u87sk902s1"},{"lat": 47.159, "lng": 27.62002, "geohash": "u87sk90314"},{"lat": 47.15908, "lng": 27.61982, "geohash": "u87sk901s3"},{"lat": 47.15928, "lng": 27.61864, "geohash": "u87sk3p68y"},{"lat": 47.15971, "lng": 27.61576, "geohash": "u87sk3jjjz"},{"lat": 47.16018, "lng": 27.61246, "geohash": "u87sk34zby"},{"lat": 47.16034, "lng": 27.61183, "geohash": "u87sk362fk"},{"lat": 47.16084, "lng": 27.61037, "geohash": "u87sk337b3"},{"lat": 47.16166, "lng": 27.60804, "geohash": "u87sk1x89f"},{"lat": 47.16176, "lng": 27.60786, "geohash": "u87sk1x3jv"},{"lat": 47.16182, "lng": 27.60769, "geohash": "u87sk1x39b"},{"lat": 47.16248, "lng": 27.60558, "geohash": "u87sk1tv2e"},{"lat": 47.16254, "lng": 27.60534, "geohash": "u87sk1tten"},{"lat": 47.16262, "lng": 27.60422, "geohash": "u87sk1sy0v"},{"lat": 47.16263, "lng": 27.60358, "geohash": "u87sk1sq4p"},{"lat": 47.1626, "lng": 27.60325, "geohash": "u87sk1sn43"},{"lat": 47.1624, "lng": 27.6017, "geohash": "u87sk1duyh"},{"lat": 47.16248, "lng": 27.60089, "geohash": "u87sk1dm77"},{"lat": 47.16292, "lng": 27.59929, "geohash": "u87sk19pyj"},{"lat": 47.16309, "lng": 27.59825, "geohash": "u87sk1b2vv"},{"lat": 47.1632, "lng": 27.59659, "geohash": "u87s7cz1x1"},{"lat": 47.16324, "lng": 27.5966, "geohash": "u87s7cz1z3"},{"lat": 47.16342, "lng": 27.59407, "geohash": "u87s7cv6u6"},{"lat": 47.16343, "lng": 27.5937, "geohash": "u87s7cv4gu"},{"lat": 47.16346, "lng": 27.59342, "geohash": "u87s7cugj6"},{"lat": 47.16423, "lng": 27.59171, "geohash": "u87s7cgxt3"},{"lat": 47.1643, "lng": 27.59145, "geohash": "u87s7cgrzq"},{"lat": 47.1643, "lng": 27.59121, "geohash": "u87s7cgrcy"},{"lat": 47.16419, "lng": 27.59065, "geohash": "u87s7cfzkd"},{"lat": 47.16408, "lng": 27.58962, "geohash": "u87s7cfnst"},{"lat": 47.1638, "lng": 27.58845, "geohash": "u87s7ccm13"},{"lat": 47.16379, "lng": 27.58813, "geohash": "u87s7cchfp"},{"lat": 47.16388, "lng": 27.58677, "geohash": "u87s7cbjd2"},{"lat": 47.16407, "lng": 27.58573, "geohash": "u87s79zqd5"},{"lat": 47.16421, "lng": 27.5852, "geohash": "u87s79yzmt"},{"lat": 47.16528, "lng": 27.58178, "geohash": "u87s7dhmwj"},{"lat": 47.16578, "lng": 27.57974, "geohash": "u87s7d6bwd"},{"lat": 47.1658, "lng": 27.57975, "geohash": "u87s7d6bwy"},{"lat": 47.16635, "lng": 27.57763, "geohash": "u87s7d37vk"},{"lat": 47.16672, "lng": 27.57639, "geohash": "u87s7d2w03"},{"lat": 47.16728, "lng": 27.57441, "geohash": "u87s76x166"},{"lat": 47.1692, "lng": 27.56946, "geohash": "u87s76gkwb"},{"lat": 47.1691, "lng": 27.56915, "geohash": "u87s76g5zv"},{"lat": 47.16791, "lng": 27.56818, "geohash": "u87s76dscp"},{"lat": 47.16769, "lng": 27.56807, "geohash": "u87s76d7ww"},{"lat": 47.16652, "lng": 27.57024, "geohash": "u87s76khch"}],
+        "routeName": "T_3_B"
+      }
+    }
+  ]
+}

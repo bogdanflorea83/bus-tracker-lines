@@ -18,8 +18,6 @@ import it.rambow.master.javautils.PolylineEncoder;
 public class DecodePolyline {
 	
 	protected static final PolylineDecoder decoder = new PolylineDecoder();
-	protected static final PolylineEncoder encoder = new PolylineEncoder();
-
 	
 	private static String getDeviceType(String city, String line, int deviceType) {
 		if(city.equalsIgnoreCase("iasi")) {
@@ -118,7 +116,7 @@ public class DecodePolyline {
 	public static void processCityForPolyline(String city) {
 		///
 				JSONParser parser = new JSONParser();
-				
+
 		        try {
 		            String pathPrefix = "D:\\workspace_transport_geofire\\home\\src\\main\\java\\home\\";
 					Object obj = parser.parse(new FileReader(
@@ -244,7 +242,7 @@ public class DecodePolyline {
 	}
 	
 	public static void main(String[] args) {
-		String geometry = "gg|~GevegD??tBqGjBeFh@kAlAiD??hAcDbBcEjE}J??bDqH~CwGpAgDXc@h@i@t@[zDkB??`LoFhAa@`@Gx@C~CVJ@~AN~@?l@OJG??^Yh@w@pCeE^e@b@UXKTCbABl@F~A|@vDfBd@T??lAf@~Bj@xBFdBS`AW??`Bm@z@k@xBaCbA_BpHgL??~E}H`F_J??zEaJvA}Er@sCJ{@Dy@D{L??@aEAqCWoCGk@[oAUu@Ws@u@qAuBkD~AoB??~EeGxC_EzFiIzAiC??nIwNzD_HNW??vc@mu@^RjC_@~AeBvC_DdAe@n@@nD|IzDfKx@bERjC`@dA`A`ArBzBhCdCf@TxAJbAb@tAzAjJpIfDzBbHrBxLb@d@YTgCr@kAbMqChN}CxBe@rAOt@AzCq@AkBN_BVkAG_EvCmMtAeBhCa@lARCW";
+		String geometry = "{{__HyoegD@DPQHUFc@Ae@zLsJ^c@^_@t@a@vRwOtCkCvFaElDsCjBgBh|@cr@JEtAqAjByAbAu@~CqAnD]hBUt@OrBw@dAg@rEsWxEiTn@eEXuCTyGg@kEU_BKmCYaCGkAFi@X_AnBuFV{@Zk@rBqClA{@`Ag@RGV?TT`@fBjIp`@jAxDvAtCfA`Dl@lA`@x@d@z@d@f@j@`@nBDfBFp@KxBeAhAo@ZY`CoC~GiH`@a@ZK`@Id@?t@d@fBjARFNCLGHMJe@N{@^gCpIi_@TyAh@oC\\uClFys@dDmc@zFgv@m@{Awb@{I{D{@e@U_@[a@s@]eAsA{J[y@_@o@i@e@{@i@_@K_@?q@Pi@Va@XyS~[y@rAOf@wArPcCj[_@|B}ApGiDbNSb@oCfMKn@IhBEtBA~Bn@nKMrBcBtJ_@zDs@zTMnFaArCBBeBfFGh@FjAX`CJlC|@bHWvGi@lEqAvHgD`OiBbLgBrJOPu@Xu@ZgA^uC`@sEl@oBv@m@`@WJGD}DhDQRqk@hd@wOxLkBfBmDrCwF`EqE|D{PdN[Rg@ZWVY\\{LrJMOMEQAQB";
 		JSONArray arr = new JSONArray();
 		arr.addAll(calculatePolylineForOneLine(geometry));
 		System.out.println(arr);

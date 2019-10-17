@@ -1,0 +1,1125 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "7227",
+			"short_name": "101A",
+			"name": "Gara -> Spital -> Closca -> Primarie -> Centru de zi",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7289",
+			"short_name": "101B",
+			"name": "Centru de zi -> Motilor -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7226",
+			"short_name": "101R",
+			"name": "Centru -> Motilor -> Cetate -> Recea  -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7293",
+			"short_name": "101T",
+			"name": "Gara -> Recea  -> Spital -> Closca -> Primarie -> Centru",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7294",
+			"short_name": "102R",
+			"name": "Centru -> Horea -> Closca -> Lalelelor -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7228",
+			"short_name": "102T",
+			"name": "Gara -> Revolutiei -> Cetate -> Motilor -> Centru",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7229",
+			"short_name": "103",
+			"name": "Gara -> Centru -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7230",
+			"short_name": "103A",
+			"name": "Gara -> Centru -> Ampoi 3 -> Cetate -> Camin de varstnici",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7231",
+			"short_name": "104",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7232",
+			"short_name": "104A",
+			"name": "Schit -> Cetate -> Ampoi 3 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7276",
+			"short_name": "105A",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> Ambient",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7280",
+			"short_name": "105C",
+			"name": "Ambient -> Ampoi 2 -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7286",
+			"short_name": "105C",
+			"name": "Gemina -> Ampoi 2 -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7269",
+			"short_name": "105G",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> Gemina",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7283",
+			"short_name": "106A",
+			"name": "Gara -> Centru -> Ampoi 1 -> Ambient",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7287",
+			"short_name": "106C",
+			"name": "Gemina -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7277",
+			"short_name": "106C",
+			"name": "Ambient -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7285",
+			"short_name": "106G",
+			"name": "Gara -> Centru -> Ampoi 1 -> Gemina",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7233",
+			"short_name": "107",
+			"name": "Gara -> Centru -> Ampoi 1 -> Barabant",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7359",
+			"short_name": "107A",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> Barabant",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7290",
+			"short_name": "107B",
+			"name": "Barabant -> Ampoi 2 -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7234",
+			"short_name": "107R",
+			"name": "Barabant -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7235",
+			"short_name": "108",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> Saturn",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7236",
+			"short_name": "108A",
+			"name": "Gara -> Cetate -> Unirea -> Ampoi 1 -> Saturn",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7237",
+			"short_name": "109",
+			"name": "Gara -> Centru -> Ampoi 1 -> Saturn",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7275",
+			"short_name": "109B",
+			"name": "Gara -> Centru -> Ampoi 1 -> Barabant -> Saturn",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7238",
+			"short_name": "110",
+			"name": "Gara -> Centru -> Ampoi 3 -> Micesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7239",
+			"short_name": "110A",
+			"name": "Gara -> Centru -> Motilor -> Micesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7240",
+			"short_name": "110C",
+			"name": "Micesti -> Ampoi 3 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7297",
+			"short_name": "110D",
+			"name": "Micesti -> Cetate -> Closca -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7341",
+			"short_name": "110E",
+			"name": "Micesti -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7288",
+			"short_name": "110G",
+			"name": "Garaj -> Micesti",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7295",
+			"short_name": "110R",
+			"name": "Groape -> Zavoi -> Cetate -> Closca -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7296",
+			"short_name": "110Z",
+			"name": "Gara -> Centru -> Closca -> Cetate -> Zavoi",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7241",
+			"short_name": "111",
+			"name": "Centru -> Gara -> SGA -> Paclisa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7242",
+			"short_name": "111A",
+			"name": "Paclisa -> SGA -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7273",
+			"short_name": "112",
+			"name": "Unirea -> Centru -> Gara -> Garoafelor -> Oarda de Jos",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7266",
+			"short_name": "112A",
+			"name": "Gara -> Apulum -> Garoafelor -> Oarda de Jos",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7366",
+			"short_name": "112R",
+			"name": "Oarda de Jos -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7244",
+			"short_name": "113",
+			"name": "Centru -> Gara -> Garoafelor -> Oarda de Sus",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7243",
+			"short_name": "113A",
+			"name": "Centru -> Gara -> Oarda de Jos -> Oarda de Sus",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7378",
+			"short_name": "113H",
+			"name": "Gara -> Garoafelor -> Haiducilor",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7377",
+			"short_name": "113P",
+			"name": "Haiducilor -> Oarda de Jos -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7365",
+			"short_name": "113R",
+			"name": "Oarda de Sus -> Oarda de Jos -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7376",
+			"short_name": "113T",
+			"name": "Gara -> Oarda de Jos -> Haiducilor",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7278",
+			"short_name": "114",
+			"name": "Gara -> Centru -> Ampoi 3 -> Cetate -> Apulum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7267",
+			"short_name": "114A",
+			"name": "Rekord -> Ampoi 2 -> Ampoi 3 -> Cetate -> Apulum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7363",
+			"short_name": "114B",
+			"name": "Barabant -> Ampoi 2 -> Centru -> Apulum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7282",
+			"short_name": "114C",
+			"name": "Gara -> Centru -> Motilor -> Cetate -> Apulum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7265",
+			"short_name": "114D",
+			"name": "Barabant -> Ampoi 2 -> Unirea -> Motilor -> Cetate -> Apulum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7379",
+			"short_name": "114M",
+			"name": "Micesti -> Ampoi 3 -> Centru -> Apulum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7268",
+			"short_name": "114R",
+			"name": "Apulum -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7263",
+			"short_name": "114T",
+			"name": "Gara -> Apulum",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7260",
+			"short_name": "115",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Casa Pensii -> VCST",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7245",
+			"short_name": "115R",
+			"name": "VCST -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7375",
+			"short_name": "116",
+			"name": "Ardealul -> Cetate -> Universitate",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7374",
+			"short_name": "116R",
+			"name": "Universitate -> Horea -> Alsting",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7246",
+			"short_name": "117",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> IPEC",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7262",
+			"short_name": "117A",
+			"name": "Gara -> Cetate -> Unirea -> Ampoi 1 -> IPEC",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7247",
+			"short_name": "117B",
+			"name": "Gara -> Centru -> Ampoi 1 -> IPEC",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7248",
+			"short_name": "118",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> Aprohorea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7249",
+			"short_name": "118A",
+			"name": "Gara -> Centru -> Ampoi 1 -> Aprohorea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7250",
+			"short_name": "119",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> Rekord",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7251",
+			"short_name": "119A",
+			"name": "Gara -> Centru -> Ampoi 1 -> Rekord",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7252",
+			"short_name": "119B",
+			"name": "Gara -> Centru -> Cetate -> Ampoi 3 -> Ampoi 1 -> Rekord",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7253",
+			"short_name": "120",
+			"name": "Gara -> Cetate -> Ampoi 3 -> Ampoi 1 -> SEWS",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7254",
+			"short_name": "120A",
+			"name": "Gara -> Centru -> Ampoi 1 -> SEWS",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7255",
+			"short_name": "120B",
+			"name": "Gara -> Centru -> Cetate -> Ampoi 3 -> Ampoi 1 -> SEWS",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7279",
+			"short_name": "121R",
+			"name": "Elit -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7281",
+			"short_name": "121T",
+			"name": "Gara -> Elit",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7256",
+			"short_name": "122",
+			"name": "IPEC -> Ampoi 2 -> Unirea -> Motilor -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7270",
+			"short_name": "122",
+			"name": "Barabant -> Ampoi 2 -> Unirea -> Motilor -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7264",
+			"short_name": "122",
+			"name": "Saturn -> Ampoi 2 -> Unirea -> Motilor -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7272",
+			"short_name": "122A",
+			"name": "SEWS -> Ampoi 2 -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7259",
+			"short_name": "122A",
+			"name": "Saturn -> Ampoi 2 -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7258",
+			"short_name": "122A",
+			"name": "Rekord -> Ampoi 2 -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7274",
+			"short_name": "122A",
+			"name": "Aprohorea -> Ampoi 2 -> Ampoi 3 -> Cetate -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7261",
+			"short_name": "122C",
+			"name": "Aprohorea -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7257",
+			"short_name": "122C",
+			"name": "Rekord -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7284",
+			"short_name": "122C",
+			"name": "SEWS -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7271",
+			"short_name": "122C",
+			"name": "Saturn -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7345",
+			"short_name": "201",
+			"name": "Autogara STP -> Centru -> Marasesti  -> Teleac",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7346",
+			"short_name": "201A",
+			"name": "Teleac -> Drambar -> Unirea -> HCC -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7298",
+			"short_name": "301",
+			"name": "Autogara STP -> Electrica -> Oarda -> Seusa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7342",
+			"short_name": "301A",
+			"name": "Unirea -> Oarda -> Seusa 1",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7343",
+			"short_name": "301C",
+			"name": "Autogara STP -> Cetate -> Ampoi 3 -> Centru -> Seusa",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7344",
+			"short_name": "301D",
+			"name": "Seusa -> Drambar -> Marasesti  -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7299",
+			"short_name": "301R",
+			"name": "Seusa -> Oarda -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7300",
+			"short_name": "302",
+			"name": "Autogara STP -> Electrica -> Marasesti  -> Teleac -> Hapria ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7302",
+			"short_name": "302B",
+			"name": "Hapria  -> Marasesti  -> Unirea -> HCC -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7301",
+			"short_name": "302R",
+			"name": "Hapria  -> Marasesti 1 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7347",
+			"short_name": "302T",
+			"name": "Hapria  -> TOTOI",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7303",
+			"short_name": "303",
+			"name": "Autogara STP -> Electrica -> Oarda -> Hapria  -> TOTOI -> Marasesti ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7304",
+			"short_name": "304",
+			"name": "Autogara STP -> Electrica -> Marasesti  -> TOTOI",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7306",
+			"short_name": "304A",
+			"name": "TOTOI -> Marasesti  -> Unirea -> Motilor -> Cetate -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7353",
+			"short_name": "304C",
+			"name": "TOTOI -> Marasesti  -> Unirea -> HCC -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7373",
+			"short_name": "304H",
+			"name": "TOTOI -> Hapria ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7305",
+			"short_name": "304R",
+			"name": "TOTOI -> Marasesti 1 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7307",
+			"short_name": "305",
+			"name": "Autogara STP -> Electrica -> Micesti  DN -> Sard",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7313",
+			"short_name": "305A",
+			"name": "Sard -> Ampoi 3 -> Centru -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7314",
+			"short_name": "306",
+			"name": "Autogara STP -> Electrica -> Micesti  DN -> Ighiu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7316",
+			"short_name": "306A",
+			"name": "Ighiu -> Ampoi 3 -> Centru -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7315",
+			"short_name": "306R",
+			"name": "Ighiu -> Sard -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7317",
+			"short_name": "401",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Galda de Jos(sat)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7319",
+			"short_name": "401A",
+			"name": "Galda de Jos(sat) -> Ampoi 2 -> Unirea -> Motilor -> Cetate -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7348",
+			"short_name": "401B",
+			"name": "Autogara STP -> Cetate -> Ampoi 3 -> Ampoi 1 -> Galda de Jos(sat)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7318",
+			"short_name": "401R",
+			"name": "Galda de Jos(sat) -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7310",
+			"short_name": "402",
+			"name": "Autogara STP -> Electrica -> Sard -> Telna ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7311",
+			"short_name": "402A",
+			"name": "Telna  -> Sard -> Ampoi 3 -> Centru -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7312",
+			"short_name": "402R",
+			"name": "Telna  -> Sard -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7320",
+			"short_name": "403",
+			"name": "Autogara STP -> Electrica -> Micesti  DN -> Sard -> Bucerdea(sat)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7322",
+			"short_name": "403A",
+			"name": "Bucerdea(sat) -> Sard -> Ampoi 3 -> Centru -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7352",
+			"short_name": "403B",
+			"name": "Autogara STP -> Centru -> Ampoi 3 -> Sard -> Bucerdea(sat)",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7321",
+			"short_name": "403R",
+			"name": "Bucerdea(sat) -> Sard -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7323",
+			"short_name": "404",
+			"name": "Autogara STP -> Electrica -> Micesti  DN -> Sard -> Ighiel ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7325",
+			"short_name": "404A",
+			"name": "Ighiel  -> Sard -> Ampoi 3 -> Centru -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7355",
+			"short_name": "404B",
+			"name": "Ighiel  -> Sard -> Motilor -> HCC -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7361",
+			"short_name": "404I",
+			"name": "Ighiel  -> Telna  -> Sard -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7324",
+			"short_name": "404R",
+			"name": "Ighiel  -> Sard -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7360",
+			"short_name": "404T",
+			"name": "Autogara STP -> Electrica -> Sard -> Telna  -> Ighiel ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7380",
+			"short_name": "405",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Coslariu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7367",
+			"short_name": "405R",
+			"name": "Coslariu -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7291",
+			"short_name": "406",
+			"name": "Autogara STP -> Centru -> Ampoi 1 -> DUMITRA",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7292",
+			"short_name": "406R",
+			"name": "DUMITRA -> Ampoi 2 -> Centru -> Gara",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7326",
+			"short_name": "501",
+			"name": "Autogara STP -> Electrica -> Micesti  DN -> Sard -> Cricau Sus",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7328",
+			"short_name": "501A",
+			"name": "Cricau Sus -> Sard -> Ampoi 3 -> Centru -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7327",
+			"short_name": "501R",
+			"name": "Cricau Sus -> Sard -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7329",
+			"short_name": "502",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Galda de Jos  -> Tibru",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7364",
+			"short_name": "502G",
+			"name": "Tibru -> Galda de Jos(sat) -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7309",
+			"short_name": "502R",
+			"name": "Tibru -> Galda de Jos  -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7308",
+			"short_name": "503",
+			"name": "Autogara STP -> Electrica -> Sard -> Craiva -> Tibru",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7331",
+			"short_name": "503A",
+			"name": "Tibru -> Sard -> Ampoi 3 -> Centru -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7339",
+			"short_name": "503B",
+			"name": "Tibru -> Cricau-pod -> Bucerdea(sat) -> Ampoi 3 -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7349",
+			"short_name": "503C",
+			"name": "Autogara STP -> Electrica -> Bucerdea(sat) -> Cricau Sus -> Tibru",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7350",
+			"short_name": "503D",
+			"name": "Tibru -> Cricau-pod -> Sard -> Apuseni -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7351",
+			"short_name": "503E",
+			"name": "Tibru -> Cricau Sus -> Bucerdea(sat) -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7358",
+			"short_name": "503F",
+			"name": "Autogara STP -> Electrica -> Bucerdea(sat) -> Cricau-pod -> Tibru",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7330",
+			"short_name": "503G",
+			"name": "Tibru -> Bucerdea(sat) -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7340",
+			"short_name": "503R",
+			"name": "Tibru -> Motilor -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7381",
+			"short_name": "504",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> MIHALT",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7382",
+			"short_name": "504R",
+			"name": "MIHALT -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7357",
+			"short_name": "505",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Galda de Jos  -> Benic",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7362",
+			"short_name": "505R",
+			"name": "Benic -> Galda de Jos  -> Ampoi 2 -> Unirea -> Motilor -> Cetate -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7383",
+			"short_name": "506",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> OBREJA",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7385",
+			"short_name": "506H",
+			"name": "OBREJA -> Unirea -> HCC -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7384",
+			"short_name": "506R",
+			"name": "OBREJA -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7332",
+			"short_name": "601",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Galda de Jos  -> Poiana Galdei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7334",
+			"short_name": "601A",
+			"name": "Poiana Galdei -> Galda de Jos  -> Unirea -> HCC -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7335",
+			"short_name": "601B",
+			"name": "Autogara STP -> Cetate -> Unirea -> Galda de Jos  -> Poiana Galdei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7354",
+			"short_name": "601C",
+			"name": "Poiana Galdei -> CETEA -> Cetea R -> Galda de Jos ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7356",
+			"short_name": "601D",
+			"name": "Autogara STP -> Cetate -> Sard -> Galda de Jos  -> Poiana Galdei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7371",
+			"short_name": "601E",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Galda de Jos  -> CETEA -> Poiana Galdei",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7372",
+			"short_name": "601F",
+			"name": "Poiana Galdei -> CETEA -> Galda de Jos  -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7333",
+			"short_name": "601R",
+			"name": "Poiana Galdei -> Galda de Jos  -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7338",
+			"short_name": "602",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Galda de Jos  -> CETEA",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7369",
+			"short_name": "602A",
+			"name": "CETEA -> Galda de Jos  -> Unirea -> HCC -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7370",
+			"short_name": "602B",
+			"name": "Autogara STP -> Cetate -> Ampoi 3 -> Galda de Jos  -> CETEA",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7368",
+			"short_name": "602R",
+			"name": "CETEA -> Galda de Jos  -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7336",
+			"short_name": "701",
+			"name": "Autogara STP -> Electrica -> Ampoi 1 -> Galda de Jos  -> Intregalde",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7337",
+			"short_name": "701R",
+			"name": "Intregalde -> Galda de Jos  -> Ampoi 2 -> Electrica -> Autogara STP",
+			"type": "3",
+			"boolNum": "1"
+		}
+	]
+}

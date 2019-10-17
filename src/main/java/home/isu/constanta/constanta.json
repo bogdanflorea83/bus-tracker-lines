@@ -1,0 +1,152 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "760",
+			"short_name": "1",
+			"name": "KM5 (Sere ) - Aurel Vlaicu - Tomis Nord",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "766",
+			"short_name": "2-43",
+			"name": "Tomis Nord - Centru - Gara C.F.R. - Poarta 6",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "757",
+			"short_name": "3",
+			"name": "Tomis Nord - Sanatoriu  - Tomis Plus - Tomis Nord ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "758",
+			"short_name": "3B",
+			"name": "Ciresica - Targ legume",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "762",
+			"short_name": "5-40",
+			"name": "Km 5 - Centru - Campus",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2791",
+			"short_name": "5B",
+			"name": "Gara CFR -Doraly- KM5",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "751",
+			"short_name": "42",
+			"name": " Poarta 2  - Centru -Tomis Nord ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "765",
+			"short_name": "43C",
+			"name": "Gara CFR - Centru - Carrefour",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "763",
+			"short_name": "43M",
+			"name": "Gara CFR - Centru - Maritimo",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "754",
+			"short_name": "44",
+			"name": " Poarta 1 Port - Institutul de marina -Galeriile Soveja    ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "767",
+			"short_name": "48",
+			"name": " Poarta 2 Port - CFR Palas  ",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "752",
+			"short_name": "51",
+			"name": "Poarta 1 Port - Halta Traian",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "7388",
+			"short_name": "51B",
+			"name": "Poarta 1 - Centru - Aurel Vlaicu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "768",
+			"short_name": "100",
+			"name": "Gara CFR - Sat vacanta",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "2340",
+			"short_name": "100 MAMAIA",
+			"name": "Gara - B-dul Lapusneanu - Mamaia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "764",
+			"short_name": "100C",
+			"name": "Gara CFR -Lapusneanu- Carrefour",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1168",
+			"short_name": "101C",
+			"name": " Centru - Gara CFR - CET",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "756",
+			"short_name": "101M",
+			"name": "Gara CFR - CET - Maritimo",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "769",
+			"short_name": "102",
+			"name": "Pescarie - Depou tramvaie",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1151",
+			"short_name": "102N",
+			"name": "Faleza Nord - Depou tramvaie",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "8472",
+			"short_name": "CiTyTOUR  ",
+			"name": "Gara - Piata Far - Cuibul Reginei - Statiunea Mamaia",
+			"type": "3",
+			"boolNum": "0"
+		}
+	]
+}

@@ -1,0 +1,201 @@
+{
+	"status": "ok",
+	"data": [
+		{
+			"id": "775",
+			"short_name": "1",
+			"name": "Copou - Podu Ros",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "774",
+			"short_name": "2",
+			"name": "Canta - Baza 3",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "781",
+			"short_name": "3",
+			"name": "Billa - Rond Dancu",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "780",
+			"short_name": "5",
+			"name": "Rond Dacia - Tutora",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "786",
+			"short_name": "6",
+			"name": "Rond Dacia - Tg. Cucu",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "782",
+			"short_name": "6B",
+			"name": "Rond Dacia - Breazu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "776",
+			"short_name": "7",
+			"name": "Rond Canta - Baza 3",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "1054",
+			"short_name": "8",
+			"name": "Rond Copou - Baza 3",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "787",
+			"short_name": "11",
+			"name": "Rond Dacia - Tatarasi Nord",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "788",
+			"short_name": "13",
+			"name": "Copou - Tatarasi",
+			"type": "0",
+			"boolNum": "1"
+		},
+		{
+			"id": "798",
+			"short_name": "14B",
+			"name": "Blocuri Ciurea - Scoala Generala Picioru Lupului",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "793",
+			"short_name": "18",
+			"name": "Tatarasi Sud - Pacurari",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "773",
+			"short_name": "19",
+			"name": "Rond Canta - CUG I",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "789",
+			"short_name": "20",
+			"name": "METRO - Tg. Cucu",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "783",
+			"short_name": "27",
+			"name": "Tatarasi Nord - Tehnopolis",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "794",
+			"short_name": "28",
+			"name": "Triumf - Dacia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "790",
+			"short_name": "29",
+			"name": "Tomesti - Podu Ros",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "772",
+			"short_name": "30",
+			"name": "Rond Canta - Bucium",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "795",
+			"short_name": "30B",
+			"name": "Carrefour ERA - Bucium",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "784",
+			"short_name": "41",
+			"name": "Rond Copou - Tehnopolis",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "796",
+			"short_name": "41B",
+			"name": "Rond Copou - Blocuri Ciurea",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "792",
+			"short_name": "42",
+			"name": "Rond Copou - CUG I",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "797",
+			"short_name": "43",
+			"name": "Rond Pacurari - CUG I",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "791",
+			"short_name": "43C",
+			"name": "Carrefour ERA - CUG I",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "778",
+			"short_name": "44",
+			"name": "Tehnopolis - Piata Dacia",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "779",
+			"short_name": "46",
+			"name": "Rond Pacurari - Rond Bucium",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "1931",
+			"short_name": "50",
+			"name": "Aeroport - Piata Unirii",
+			"type": "3",
+			"boolNum": "1"
+		},
+		{
+			"id": "785",
+			"short_name": "121",
+			"name": "Tatarasi Sud - Rond Dacia",
+			"type": "3",
+			"boolNum": "1"
+		}
+	]
+}
