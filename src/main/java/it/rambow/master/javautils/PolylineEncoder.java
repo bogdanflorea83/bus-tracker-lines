@@ -127,8 +127,11 @@ public class PolylineEncoder {
 		encodedPoints = createEncodings(track.getTrackpoints(), dists);
 		// System.out.println("encodedPoints \t\t: " + encodedPoints);
 		// encodedPoints.replace("\\","\\\\");
-		encodedPoints = replace(encodedPoints, "\\", "\\\\");
+		//encodedPoints = replace(encodedPoints, "\\", "\\\\");
 		// System.out.println("encodedPoints slashy?\t\t: " + encodedPoints);
+
+		//encodedPoints = replace(encodedPoints, "\\", "\\\\");
+
 
 		encodedLevels = encodeLevels(track.getTrackpoints(), dists, absMaxDist);
 		// System.out.println("encodedLevels: " + encodedLevels);
@@ -219,7 +222,7 @@ public class PolylineEncoder {
 	}
 
 	/**
-	 * @param LineString
+	 * @param String
 	 *            set the points that should be encoded all points have to be in
 	 *            the following form: Longitude,Latitude,Altitude"_"...
 	 */

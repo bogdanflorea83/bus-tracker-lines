@@ -1,5 +1,4 @@
-{
-  "allLines": [
+[
     {
       "deviceType": "T",
       "onlyOneRoute": false,
@@ -36765,4 +36764,3 @@
       }
     }
   ]
-}

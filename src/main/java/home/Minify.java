@@ -59,6 +59,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PushbackInputStream;
+import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.util.Iterator;
 
@@ -99,10 +100,9 @@ public class Minify {
 				JSONParser parser = new JSONParser();
 				
 		        try {
-		        	
-		            String pathPrefix = "D:\\WSS\\bus-tracker-lines\\src\\main\\java\\home\\isu\\";
-					new Minify().minify(new FileInputStream(new File( pathPrefix+city+"\\allLines.json")),
-							new FileOutputStream(new File( pathPrefix+city+"\\allLinesMin.json")));
+		            String pathPrefix = new File(".").getCanonicalPath()  + "//src//main//java//home//";
+					new Minify().minify(new FileInputStream(new File( pathPrefix+city+"//allLines.json")),
+							new FileOutputStream(new File( pathPrefix+city+"//allLinesMin.json")));
 					
 		        } catch (Exception e) {
 		            e.printStackTrace();

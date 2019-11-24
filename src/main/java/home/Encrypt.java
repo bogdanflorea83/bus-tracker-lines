@@ -1,6 +1,7 @@
 package home;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.Base64;
@@ -23,10 +24,10 @@ public class Encrypt {
 //				encrypt(key, initVector, "Hello World");
 				
 				try {
-		            String pathPrefix = "D:\\WSS\\bus-tracker-lines\\src\\main\\java\\home\\isu\\";
-					BufferedWriter writer = new BufferedWriter(new FileWriter(pathPrefix+city+"\\allLines.cr"));
+					String pathPrefix = new File(".").getCanonicalPath()  +"//src//main//java//home//";
+					BufferedWriter writer = new BufferedWriter(new FileWriter(pathPrefix+city+"//allLines.cr"));
 					Object obj = parser.parse(new FileReader(
-		                    pathPrefix+city+"\\allLinesMin.json"));
+		                    pathPrefix+city+"//allLinesMin.json"));
 					
 					writer.write( new String(Encrypt.encrypt(key, initVector, obj.toString()).getBytes("UTF-8")));
 		            

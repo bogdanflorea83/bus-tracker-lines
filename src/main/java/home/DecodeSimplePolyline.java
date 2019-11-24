@@ -20,7 +20,7 @@ public class DecodeSimplePolyline {
         JSONArray arr = new JSONArray();
         JSONArray reversearr = new JSONArray();
 
-        arr.addAll(calculatePolylineForOneLine("sdw~Gwb_gDbCaB`@[v@k@k@}BS}@]mA_AgE{@aD}@sDu@{CnLkf@E{@Mc@gBuASm@OcAIuCEeI?{W}C{[cF}j@c@uD]i@c@]wBsAe@a@Y]YiAIe@Cw@Hk@jCkIh@yAx@kB|B_EnDiIrF}MdAaGrDeMnDgHvEyIN]`CiKj@qAb@m@zEsFaCwBqAo@cLaDuCeA_j@cc@"));
+        arr.addAll(calculatePolylineForOneLine("qe|nGg{p~Cx^HbSiA`LQx`AkBbv@MrWhHld@zNlVfIzWjIjTbHlWlWrNlSrJbY~Kt]lf@b_A`MdVbD{n@"));
         newRouteObj.put("routeWayPoints", arr);
         System.out.println(newRouteObj + ",");
 

@@ -242,7 +242,7 @@ public class DecodePolyline {
 	}
 	
 	public static void main(String[] args) {
-		String geometry = "{{__HyoegD@DPQHUFc@Ae@zLsJ^c@^_@t@a@vRwOtCkCvFaElDsCjBgBh|@cr@JEtAqAjByAbAu@~CqAnD]hBUt@OrBw@dAg@rEsWxEiTn@eEXuCTyGg@kEU_BKmCYaCGkAFi@X_AnBuFV{@Zk@rBqClA{@`Ag@RGV?TT`@fBjIp`@jAxDvAtCfA`Dl@lA`@x@d@z@d@f@j@`@nBDfBFp@KxBeAhAo@ZY`CoC~GiH`@a@ZK`@Id@?t@d@fBjARFNCLGHMJe@N{@^gCpIi_@TyAh@oC\\uClFys@dDmc@zFgv@m@{Awb@{I{D{@e@U_@[a@s@]eAsA{J[y@_@o@i@e@{@i@_@K_@?q@Pi@Va@XyS~[y@rAOf@wArPcCj[_@|B}ApGiDbNSb@oCfMKn@IhBEtBA~Bn@nKMrBcBtJ_@zDs@zTMnFaArCBBeBfFGh@FjAX`CJlC|@bHWvGi@lEqAvHgD`OiBbLgBrJOPu@Xu@ZgA^uC`@sEl@oBv@m@`@WJGD}DhDQRqk@hd@wOxLkBfBmDrCwF`EqE|D{PdN[Rg@ZWVY\\{LrJMOMEQAQB";
+		String geometry = "ctz~GqglgDt@aC@iAh@sQH_FNwBf@_Dx@aETsAJoABsAC?i@gJ?yADaCJcCl@aDlBuIRc@hDcN|AqG^}BbCk[vAsPNg@dJuNdIwMlAoAdBg@xA\\|AdBt@lE|@dGr@hBxAz@h@LhKpBdN|CvJrBf@d@Fz@I~C[nFgD|b@wF~u@_@|@{Du@gKuBiXsFuAFuChCuNtNRtBe@~@eDfGgAlCsAdFi@bBaBfD}ApBs@n@]L_CrAeCbDcAlCaBlFKCJBQlAh@nH`@nD\\zBShHa@rE}CvNuAbH{EpXcClAaKhBmCv@qIdG_vBvcBg@a@";
 		JSONArray arr = new JSONArray();
 		arr.addAll(calculatePolylineForOneLine(geometry));
 		System.out.println(arr);

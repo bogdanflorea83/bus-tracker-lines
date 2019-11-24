@@ -21,7 +21,7 @@ public class ReplaceRouteNameForAlba {
 				JSONParser parser = new JSONParser();
 				
 		        try {
-		            String pathPrefix = "D:\\workspace_transport_geofire\\home\\src\\main\\java\\home\\";
+					String pathPrefix = new File(".").getCanonicalPath()  + "//src//main//java//home//encoded//alba//1//";
 					Object obj = parser.parse(new FileReader(
 		                    pathPrefix+"allLines.json"));
 		            
