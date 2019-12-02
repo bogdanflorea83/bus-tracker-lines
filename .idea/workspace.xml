@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b551a592-fe31-499c-b285-a4dc8039f3a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/BucharestTransportRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/DecodeSimplePolyline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/EncodePolyline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/IasiTransportRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/DecodePolyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/DecodePolyline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/Encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/Encrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/Minify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/Minify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/RestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/RestClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/iasi/allLines-17.03.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/iasi/allLines.cr" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/iasi/allLines.cr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/iasi/allLines.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/iasi/allLines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/iasi/allLinesMin.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/iasi/allLinesMin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/iasi/allLinesMin2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/iasi/contact1 albastru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/home/DecodeSimplePolyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/DecodeSimplePolyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/home/EncodePolyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/EncodePolyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/home/encoded/citiesMin.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/encoded/citiesMin.json" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +17,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -42,38 +24,14 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>u87shk8gjB</find>
-      <find>5cee73039507962979a61d59</find>
-      <find>&quot;1&quot;</find>
-      <find>&quot;23&quot;</find>
-      <find>bus-tracker-lines</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/home/iasi/allLinesMin.json" />
-        <option value="$PROJECT_DIR$/src/main/java/home/iasi/allLinesMin2.json" />
-        <option value="$PROJECT_DIR$/src/main/java/home/BucharestTransportRestClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/IasiTransportRestClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/a.json" />
-        <option value="D:/iasi/18.json" />
-        <option value="$PROJECT_DIR$/src/main/java/home/IdentificationCode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/DecodePolyline.java" />
-        <option value="$PROJECT_DIR$/src/main/java/main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/EncodePolyline.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/DecodeSimplePolyline.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/iasi/allLines.json" />
-        <option value="$PROJECT_DIR$/src/main/java/home/RestClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/Minify.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/Encrypt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/home/isu/bucuresti/allLines.json" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
@@ -84,36 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
-    <option name="y" value="2" />
-    <option name="width" value="1102" />
-    <option name="height" value="532" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bus-tracker-lines" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1SOPt95MQpGVvP3bMORYfYwEkC3" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -134,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RestClient">
+  <component name="RunManager" selected="Application.DecodeSimplePolyline">
     <configuration name="DecodePolyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="home.DecodePolyline" />
       <module name="home" />
@@ -174,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReplaceRouteNameForAlba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home.ReplaceRouteNameForAlba" />
+      <module name="home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="home.RestClient" />
       <module name="home" />
@@ -187,19 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="home" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RestClient" />
         <item itemvalue="Application.DecodeSimplePolyline" />
         <item itemvalue="Application.EncodePolyline" />
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.ReplaceRouteNameForAlba" />
+        <item itemvalue="Application.RestClient" />
         <item itemvalue="Application.DecodePolyline" />
       </list>
     </recent_temporary>
@@ -228,313 +163,68 @@
       <workItem from="1567251726474" duration="765000" />
       <workItem from="1567427383448" duration="26000" />
       <workItem from="1567427594697" duration="15486000" />
+      <workItem from="1571431882327" duration="7999000" />
+      <workItem from="1572705402779" duration="15332000" />
+      <workItem from="1573024762030" duration="199000" />
+      <workItem from="1573207974127" duration="619000" />
+      <workItem from="1573454831742" duration="92000" />
+      <workItem from="1573456649895" duration="166000" />
+      <workItem from="1574084220876" duration="6216000" />
+      <workItem from="1574588402185" duration="6436000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76258000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="983" extended-state="6" />
-    <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17092651" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.2835648" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32841823" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/home/EncodePolyline.java</url>
-          <line>57</line>
-          <properties />
+          <line>55</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/home/EncodePolyline.java</url>
-          <line>64</line>
-          <properties />
+          <line>62</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/home/EncodePolyline.java</url>
-          <line>55</line>
-          <properties />
+          <line>53</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/home/Minify.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/home/ReplaceRouteNameForAlba.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/home/ReplaceRouteNameForAlba.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.project">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/iasi/allLinesMin2.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/rambow/master/javautils/Trackpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/rambow/master/javautils/PolylineEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-647">
-          <caret line="92" column="28" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/scoutant/polyline/PolylineDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/scoutant/polyline/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-980">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/iasi/allLinesMin.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="2" column="11" selection-end-line="2" selection-end-column="82830" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/AndroidPush.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/BackgroundLocationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/rambow/master/javautils/Track.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="e#373#385#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/model.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar!/org/json/simple/JSONArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/TransportRestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-948">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/BucharestTransportRestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="21" selection-start-line="18" selection-start-column="12" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/IasiTransportRestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="20" column="106" selection-start-line="20" selection-start-column="106" selection-end-line="20" selection-end-column="106" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/a.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="2447" column="6" selection-start-line="2447" selection-start-column="6" selection-end-line="2447" selection-end-column="6" />
-          <folding>
-            <element signature="e#362#41618#0" />
-            <element signature="e#41646#48275#0" />
-            <element signature="e#41654#41948#0" />
-            <element signature="e#41956#42264#0" />
-            <element signature="e#42272#42593#0" />
-            <element signature="e#42601#42918#0" />
-            <element signature="e#42926#43238#0" />
-            <element signature="e#43246#43564#0" />
-            <element signature="e#43572#43886#0" />
-            <element signature="e#43894#44214#0" />
-            <element signature="e#44222#44541#0" />
-            <element signature="e#44549#44758#0" />
-            <element signature="e#44766#45094#0" />
-            <element signature="e#45102#45422#0" />
-            <element signature="e#45430#45762#0" />
-            <element signature="e#45770#45977#0" />
-            <element signature="e#45985#46326#0" />
-            <element signature="e#46334#46657#0" />
-            <element signature="e#46665#46985#0" />
-            <element signature="e#46993#47301#0" />
-            <element signature="e#47309#47614#0" />
-            <element signature="e#47622#47950#0" />
-            <element signature="e#47958#48269#0" />
-            <element signature="e#48303#89151#0" />
-            <element signature="e#89174#95766#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/iasi/18.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="801" column="7" selection-start-line="686" selection-start-column="6" selection-end-line="801" selection-end-column="7" />
-          <folding>
-            <element signature="e#426#13623#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/IdentificationCode.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/DecodePolyline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="238" column="77" lean-forward="true" selection-start-line="238" selection-start-column="77" selection-end-line="238" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/DecodeSimplePolyline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/EncodePolyline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/iasi/allLines.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-339">
-          <caret line="39235" column="37" selection-start-line="39235" selection-start-column="37" selection-end-line="39235" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/Minify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/Encrypt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-716">
-          <caret line="28" column="58" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/isu/iasi/allLines.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19183">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:////tsclient/bogdanf/Documents/workspace/here-it-is/isu-backup-json/isu/public/Romania/Bucuresti/isu3/allLines.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/RestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/isu/bucuresti/allLines.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="525" column="40" lean-forward="true" selection-start-line="525" selection-start-column="40" selection-end-line="525" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
