@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b551a592-fe31-499c-b285-a4dc8039f3a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/DecodeSimplePolyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/DecodeSimplePolyline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/EncodePolyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/EncodePolyline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/encoded/citiesMin.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/encoded/citiesMin.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +166,8 @@
       <workItem from="1573454831742" duration="92000" />
       <workItem from="1573456649895" duration="166000" />
       <workItem from="1574084220876" duration="6216000" />
-      <workItem from="1574588402185" duration="6436000" />
+      <workItem from="1574588402185" duration="7466000" />
+      <workItem from="1575583009560" duration="5813000" />
     </task>
     <servers />
   </component>
